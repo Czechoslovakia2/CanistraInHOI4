@@ -1,0 +1,16 @@
+state={
+	id=195
+	name="STATE_195"
+	provinces={
+		3217 7446 9110 14655 14666 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = STE
+		add_core_of = STE
+		victory_points = { 9110 6 }
+		victory_points = { 7446 3 }
+	}
+}

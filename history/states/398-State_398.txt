@@ -1,0 +1,21 @@
+
+state={
+	id=398
+	name="STATE_398"
+	provinces={
+		1277 1376 2180 2480 2500 2859 3737 4439 4923 4976 5137 6707 7090 7479 8018 8875 9019 10653 10690 10758 10874 10906 10909 10955 11004 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = FAR
+		add_core_of = FAR
+		victory_points = { 4923 30 }
+		victory_points = { 9019 6 }
+		victory_points = { 1376 3 }
+		victory_points = { 10690 3 }
+		victory_points = { 2180 4 }
+		victory_points = { 10955 2 }
+	}
+}

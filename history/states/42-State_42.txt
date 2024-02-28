@@ -1,0 +1,20 @@
+
+state={
+	id=42
+	name="STATE_42"
+	provinces={
+		235 499 715 2082 2876 2972 3461 5126 5909 6333 6669 6977 7938 8301 11255 11270 11283 11290 11325 11341 11357 11373 11391 11414 11419 11423 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = SAN
+		add_core_of = SAN
+		victory_points = { 11270 15 }
+		victory_points = { 11325 1 }
+		victory_points = { 3461 3 }
+		victory_points = { 11357 2 }
+		victory_points = { 2972 2 }
+	}
+}

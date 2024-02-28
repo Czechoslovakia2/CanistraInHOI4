@@ -1,0 +1,18 @@
+state={
+	id=534
+	name="STATE_534"
+	provinces={
+		1150 2053 2056 2546 3051 3257 4289 4869 4903 5084 5614 6215 6628 6637 7594 7831 8292 11899 12024 12025 12045 12054 12089 12147 12157 12201 12220 12244 12279 12288 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = ERS
+		add_core_of = ERS
+		victory_points = { 11899 4 }
+		victory_points = { 12089 3 }
+		victory_points = { 7831 1 }
+		victory_points = { 2546 3 }
+	}
+}

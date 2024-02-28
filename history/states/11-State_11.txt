@@ -1,0 +1,16 @@
+
+state={
+	id=11
+	name="STATE_11"
+	provinces={
+		790 1626 4617 6646 8382 15456 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = CRK
+		add_core_of = CRK
+		victory_points = { 1626 5 }
+	}
+}

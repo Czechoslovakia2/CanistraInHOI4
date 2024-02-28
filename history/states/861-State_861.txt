@@ -1,0 +1,21 @@
+
+state={
+	id=861
+	name="STATE_861"
+	provinces={
+		646 1526 3936 4172 4293 4548 5444 5569 6694 7215 7315 8081 8284 8362 9049 9194 15144 15169 15172 15218 15222 15236 15249 15273 15282 15283 15292 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = AVA
+		add_core_of = AVA
+		victory_points = { 15282 2 }
+		victory_points = { 3936 2 }
+		victory_points = { 15222 8 }
+		victory_points = { 9194 1 }
+		victory_points = { 4172 3 }
+		victory_points = { 8284 2 }
+	}
+}

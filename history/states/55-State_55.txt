@@ -1,0 +1,17 @@
+
+state={
+	id=55
+	name="STATE_55"
+	provinces={
+		19 316 2951 4680 4955 5901 6084 7104 11395 11441 11476 11550 11608 15469 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = AKI
+		add_core_of = AKI
+		victory_points = { 4680 2 }
+		victory_points = { 4955 5 }
+	}
+}

@@ -1,0 +1,19 @@
+
+state={
+	id=503
+	name="STATE_503"
+	provinces={
+		276 277 1222 1505 2334 3221 3701 4025 4035 5607 6933 9129 11627 11653 11713 11784 11789 11823 11850 11907 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = MDI
+		add_core_of = MDI
+		victory_points = { 11907 25 }
+		victory_points = { 1505 8 }
+		victory_points = { 11653 3 }
+		victory_points = { 4025 1 }
+	}
+}

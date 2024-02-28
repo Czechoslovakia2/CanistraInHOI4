@@ -1,0 +1,16 @@
+state={
+	id=763
+	name="STATE_763"
+	provinces={
+		1329 2112 2117 3164 3366 4308 5449 5765 5822 6605 8038 8185 9161 14320 14374 14375 14429 14430 14466 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = MIC
+		add_core_of = MIC
+		victory_points = { 14466 2 }
+		victory_points = { 14320 2 }
+	}
+}

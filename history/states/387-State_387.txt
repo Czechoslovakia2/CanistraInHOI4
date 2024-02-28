@@ -1,0 +1,15 @@
+state={
+	id=387
+	name="STATE_387"
+	provinces={
+		1383 1507 2754 3320 4468 4936 5643 5828 6247 6304 7890 10669 10721 10762 10787 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = ENF
+		add_core_of = ENF
+		victory_points = { 7890 2 }
+	}
+}

@@ -1,0 +1,17 @@
+state={
+	id=397
+	name="STATE_397"
+	provinces={
+		151 675 1835 2120 2471 2853 3626 3842 3934 4361 5823 6230 6398 6564 6663 6801 7118 7356 7705 8015 10627 10633 10676 10677 10695 10722 10723 10746 10756 10873 10901 10913 10960 10998 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = ENF
+		add_core_of = ENF
+		victory_points = { 10960 5 }
+		victory_points = { 10677 4 }
+		victory_points = { 10756 1 }
+	}
+}

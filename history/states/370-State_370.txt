@@ -1,0 +1,18 @@
+
+state={
+	id=370
+	name="STATE_370"
+	provinces={
+		372 3721 6688 7978 10349 10375 10429 10431 10448 10477 10493 10513 10514 10542 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = IGE
+		add_core_of = IGE
+		victory_points = { 10493 6 }
+		victory_points = { 372 3 }
+		victory_points = { 10349 1 }
+	}
+}

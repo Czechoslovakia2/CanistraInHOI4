@@ -1,0 +1,16 @@
+state={
+	id=556
+	name="STATE_556"
+	provinces={
+		365 1092 1600 1810 2624 3449 3469 4247 5805 6722 6751 8002 8320 12134 12144 12164 12186 12197 12234 12287 12342 12374 12382 12383 12433 12447 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = RST
+		add_core_of = RST
+		victory_points = { 3469 3 }
+		victory_points = { 12383 5 }
+	}
+}

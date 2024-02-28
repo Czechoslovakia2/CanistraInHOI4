@@ -1,0 +1,19 @@
+state={
+	id=720
+	name="STATE_720"
+	provinces={
+		317 380 569 1099 1124 1837 1936 3653 3681 4324 4826 5832 6048 7501 8160 8315 8638 13760 13791 13827 13830 13865 13869 13917 13967 13968 14017 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = TNI
+		add_core_of = TNI
+		victory_points = { 8638 10 }
+		victory_points = { 1936 2 }
+		victory_points = { 569 2 }
+		victory_points = { 3681 1 }
+		victory_points = { 3653 2 }
+	}
+}

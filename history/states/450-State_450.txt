@@ -1,0 +1,18 @@
+
+state={
+	id=450
+	name="STATE_450"
+	provinces={
+		538 722 3674 4759 5019 6515 7459 7688 8128 11077 11104 11130 11309 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = HIR
+		add_core_of = HIR
+		victory_points = { 538 3 }
+		victory_points = { 11130 4 }
+		victory_points = { 11077 2 }
+	}
+}

@@ -1,0 +1,19 @@
+
+state={
+	id=560
+	name="STATE_560"
+	provinces={
+		823 869 1523 4537 5183 5549 6845 7186 7499 8222 12142 12174 12195 12228 12243 12268 12273 12305 12312 12322 12361 12432 12450 12610 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	history = {
+        	owner = MUL
+		add_core_of = MUL
+		victory_points = { 12432 10 }
+		victory_points = { 7186 3 }
+		victory_points = { 12243 2 }
+	}
+}

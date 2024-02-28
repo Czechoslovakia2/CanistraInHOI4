@@ -1,0 +1,19 @@
+
+state={
+	id=549
+	name="STATE_549"
+	provinces={
+		465 1513 2453 3425 4043 4768 5260 6395 6402 7396 7607 7800 7888 8251 9034 11863 11999 12019 12037 12043 12044 12065 12066 12102 12116 12117 12133 12161 12200 12261 15472 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = RST
+		add_core_of = RST
+		victory_points = { 15472 15 }
+		victory_points = { 5260 10 }
+		victory_points = { 12116 2 }
+		victory_points = { 7888 20 }
+	}
+}

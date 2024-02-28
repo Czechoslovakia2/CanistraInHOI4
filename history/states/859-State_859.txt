@@ -1,0 +1,18 @@
+state={
+	id=859
+	name="STATE_859"
+	provinces={
+		644 1762 1801 2465 4082 4164 5192 5417 5559 6126 6705 15196 15203 15226 15238 15250 15258 15265 15266 15280 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = RET
+		add_core_of = PLK
+		add_core_of = RET
+		victory_points = { 15266 3 }
+		victory_points = { 15238 5 }
+		victory_points = { 5559 3 }
+	}
+}

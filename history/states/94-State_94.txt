@@ -1,0 +1,17 @@
+
+state={
+	id=94
+	name="STATE_94"
+	provinces={
+		1643 2592 3019 3795 3813 4488 5588 5669 5706 11971 11993 12033 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = RST
+		add_core_of = RST
+		victory_points = { 5588 30 }
+		victory_points = { 3795 3 }
+	}
+}

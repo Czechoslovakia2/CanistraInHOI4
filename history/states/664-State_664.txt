@@ -1,0 +1,18 @@
+state={
+	id=664
+	name="STATE_664"
+	provinces={
+		218 327 817 827 1544 1978 2294 2525 2611 3108 3788 3809 3839 3963 4263 4520 4907 5951 7899 7969 8827 13080 13090 13146 13155 13158 13170 13183 13202 13229 13230 13267 13277 13314 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = ASC
+		add_core_of = ASC
+		victory_points = { 13170 3 }
+		victory_points = { 13183 2 }
+		victory_points = { 218 2 }
+		victory_points = { 2611 1 }
+	}
+}

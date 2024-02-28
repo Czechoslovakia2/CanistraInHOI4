@@ -1,0 +1,17 @@
+
+state={
+	id=383
+	name="STATE_383"
+	provinces={
+		246 1717 2379 4509 4679 8324 10486 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = ZAP
+		add_core_of = ZAP
+		victory_points = { 4679 5 }
+		victory_points = { 8324 3 }
+	}
+}

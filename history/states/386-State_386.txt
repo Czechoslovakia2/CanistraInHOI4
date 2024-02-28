@@ -1,0 +1,16 @@
+state={
+	id=386
+	name="STATE_386"
+	provinces={
+		1908 1965 3302 3840 5289 5857 6399 7708 8986 10409 10469 10528 10535 10590 10615 10616 10637 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = AFR
+		add_core_of = AFR
+		victory_points = { 10616 15 }
+		victory_points = { 1965 2 }
+	}
+}

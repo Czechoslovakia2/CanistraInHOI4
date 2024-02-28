@@ -1,0 +1,18 @@
+
+state={
+	id=737
+	name="STATE_737"
+	provinces={
+		598 898 1463 2365 2892 2961 3631 3794 4828 5270 6297 6566 7171 7669 8144 8571 8600 13947 13948 13986 14028 14055 14063 14088 14139 14167 14174 14208 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = LLI
+		add_core_of = LLI
+		victory_points = { 2365 1 }
+		victory_points = { 14055 1 }
+		victory_points = { 3631 1 }
+	}
+}

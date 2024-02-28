@@ -1,0 +1,14 @@
+state={
+	id=188
+	name="STATE_188"
+	provinces={
+		2204 5157 7462 7836 14351 14499 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = RED
+		add_core_of = RED
+	}
+}

@@ -1,0 +1,17 @@
+
+state={
+	id=25
+	name="STATE_25"
+	provinces={
+		169 285 1055 1115 1558 2234 5061 5986 6242 7030 7870 9527 9549 9560 9592 9616 9657 9670 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = BER
+		add_core_of = BER
+		victory_points = { 1558 1 }
+		victory_points = { 1115 2 }
+	}
+}

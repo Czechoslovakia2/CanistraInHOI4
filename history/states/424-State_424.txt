@@ -1,0 +1,15 @@
+state={
+	id=424
+	name="STATE_424"
+	provinces={
+		902 993 4373 4672 5422 6128 7811 7934 10980 10994 11000 11035 11050 11140 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = ROS
+		add_core_of = ROS
+		victory_points = { 11035 1 }
+	}
+}

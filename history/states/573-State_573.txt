@@ -1,0 +1,16 @@
+
+state={
+	id=573
+	name="STATE_573"
+	provinces={
+		66 475 2837 3570 4294 5161 5980 7316 7582 7781 12337 12418 12471 12541 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = AYR
+		add_core_of = AYR
+		victory_points = { 66 3 }
+	}
+}

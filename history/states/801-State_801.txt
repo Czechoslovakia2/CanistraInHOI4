@@ -1,0 +1,14 @@
+state={
+	id=801
+	name="STATE_801"
+	provinces={
+		2369 3464 3931 4109 4515 6166 6729 7187 7490 7947 8026 8052 8890 14621 14657 14677 14685 14696 14703 14706 14710 14717 14746 14756 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = IBA
+		add_core_of = IBA
+	}
+}

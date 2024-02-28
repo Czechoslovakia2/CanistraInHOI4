@@ -1,0 +1,17 @@
+state={
+	id=715
+	name="STATE_715"
+	provinces={
+		766 1648 2220 3134 3529 6604 6712 7428 7576 7751 7992 8974 9012 13719 13746 13750 13780 13786 13824 13848 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = BUG
+		add_core_of = BUG
+		victory_points = { 13848 15 }
+		victory_points = { 3134 2 }
+		victory_points = { 7576 2 }
+	}
+}

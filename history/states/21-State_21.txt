@@ -1,0 +1,20 @@
+
+state={
+	id=21
+	name="STATE_21"
+	provinces={
+		637 714 3516 3955 4154 6201 6720 7095 7815 8803 8902 9534 9561 9605 9619 9637 9667 9672 9678 9707 9720 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = JMH
+		add_core_of = JMH
+		victory_points = { 9672 40 }
+		victory_points = { 8803 2 }
+		victory_points = { 714 3 }
+		victory_points = { 9561 3 }
+		victory_points = { 637 5 }
+	}
+}

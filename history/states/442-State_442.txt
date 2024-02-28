@@ -1,0 +1,18 @@
+state={
+	id=442
+	name="STATE_442"
+	provinces={
+		502 803 2328 2642 6336 6577 7440 9151 9203 11014 11088 11089 11134 11139 11253 11282 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = SOF
+		add_core_of = SOF
+		victory_points = { 6577 2 }
+		victory_points = { 2328 5 }
+		victory_points = { 803 4 }
+		victory_points = { 2642 3 }
+	}
+}

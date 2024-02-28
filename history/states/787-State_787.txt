@@ -1,0 +1,18 @@
+
+state={
+	id=787
+	name="STATE_787"
+	provinces={
+		549 1051 1311 2078 2779 4085 4179 4489 4969 5071 5162 5599 6406 6640 7276 8013 14369 14382 14383 14419 14465 14496 14505 14560 14566 14577 14603 14633 14645 14664 14678 14687 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = CYN
+		add_core_of = CYN
+		victory_points = { 1051 1 }
+		victory_points = { 8013 2 }
+		victory_points = { 14496 1 }
+	}
+}

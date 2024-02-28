@@ -1,0 +1,19 @@
+state={
+	id=390
+	name="STATE_390"
+	provinces={
+		3178 4495 4540 4647 5323 6154 6527 6735 7190 7243 7285 7569 7585 10436 10649 10699 10760 10802 10825 10859 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = ASS
+		add_core_of = ASS
+		victory_points = { 6154 12 }
+		victory_points = { 5323 4 }
+		victory_points = { 4540 2 }
+		victory_points = { 3178 1 }
+		victory_points = { 10825 1 }
+	}
+}

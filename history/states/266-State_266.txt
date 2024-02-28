@@ -1,0 +1,16 @@
+
+state={
+	id=266
+	name="STATE_266"
+	provinces={
+		3668 3728 4122 5915 9680 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = KHR
+		add_core_of = KHR
+		victory_points = { 9680 4 }
+	}
+}

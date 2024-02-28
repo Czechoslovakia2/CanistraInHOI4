@@ -1,0 +1,16 @@
+state={
+	id=376
+	name="STATE_376"
+	provinces={
+		814 2045 3785 4309 4871 5398 5985 7272 7415 7959 7967 8894 10419 10461 10484 10512 10532 10570 10600 10614 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = SOF
+		add_core_of = SOF
+		victory_points = { 5398 4 }
+		victory_points = { 10600 3 }
+	}
+}

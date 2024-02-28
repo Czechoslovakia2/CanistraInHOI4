@@ -1,0 +1,18 @@
+state={
+	id=420
+	name="STATE_420"
+	provinces={
+		180 604 1436 1682 3864 3951 4467 4773 4953 5571 6438 7398 8483 10702 10799 10811 10871 10902 10910 10952 11011 11020 11080 11107 11161 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = FAR
+		add_core_of = FAR
+		victory_points = { 604 1 }
+		victory_points = { 4953 2 }
+		victory_points = { 10910 3 }
+		victory_points = { 1436 4 }
+	}
+}

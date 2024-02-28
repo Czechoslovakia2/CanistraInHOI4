@@ -1,0 +1,16 @@
+state={
+	id=620
+	name="STATE_620"
+	provinces={
+		770 785 797 956 966 1723 2087 2726 3423 3658 3947 4766 4809 4940 5880 5916 6375 6721 7028 7962 8360 12688 12805 12832 12866 12890 12957 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = DIC
+		add_core_of = DIC
+		victory_points = { 5880 20 }
+		victory_points = { 2087 1 }
+	}
+}

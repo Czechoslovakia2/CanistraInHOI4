@@ -1,0 +1,15 @@
+state={
+	id=372
+	name="STATE_372"
+	provinces={
+		687 739 1345 2409 2953 6310 7403 8960 10405 10464 10495 10508 10569 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = CIA
+		add_core_of = CIA
+		victory_points = { 1345 1 }
+	}
+}

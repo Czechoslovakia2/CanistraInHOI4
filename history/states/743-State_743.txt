@@ -1,0 +1,16 @@
+state={
+	id=743
+	name="STATE_743"
+	provinces={
+		8 1326 1508 1827 4856 5464 8532 8594 8680 8685 13991 14084 14132 14153 14242 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = TNI
+		add_core_of = TNI
+		victory_points = { 1326 3 }
+		victory_points = { 4856 2 }
+	}
+}

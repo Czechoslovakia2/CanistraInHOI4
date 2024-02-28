@@ -1,0 +1,16 @@
+state={
+	id=785
+	name="STATE_785"
+	provinces={
+		552 688 1818 2436 3648 4166 4245 4306 5072 5552 5766 14464 14494 14511 14545 14587 14663 14669 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = TGF
+		add_core_of = TGF
+		victory_points = { 14669 25 }
+		victory_points = { 14511 6 }
+	}
+}

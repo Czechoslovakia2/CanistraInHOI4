@@ -1,0 +1,19 @@
+state={
+	id=395
+	name="STATE_395"
+	provinces={
+		186 584 946 1435 2050 3355 4735 4834 5138 5164 5435 5811 6365 6633 6850 7748 8055 8375 8830 9005 9063 10622 10752 10839 10915 10982 11046 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = TIA
+		add_core_of = TIA
+		victory_points = { 4735 20 }
+		victory_points = { 10752 3 }
+		victory_points = { 11046 2 }
+		victory_points = { 1435 4 }
+		victory_points = { 8830 3 }
+	}
+}

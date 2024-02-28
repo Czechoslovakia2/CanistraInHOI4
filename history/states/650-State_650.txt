@@ -1,0 +1,21 @@
+
+state={
+	id=650
+	name="STATE_650"
+	provinces={
+		219 417 1991 2707 3968 4075 5029 5198 5315 6063 6887 7559 7647 7894 7954 8433 8788 8973 9112 13211 13264 13280 13284 13290 13306 13327 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = AUT
+		add_core_of = AUT
+		victory_points = { 13284 20 }
+		victory_points = { 8433 3 }
+		victory_points = { 13327 1 }
+		victory_points = { 13280 2 }
+		victory_points = { 13211 4 }
+		victory_points = { 7559 2 }
+	}
+}

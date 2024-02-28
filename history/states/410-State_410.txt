@@ -1,0 +1,17 @@
+
+state={
+	id=410
+	name="STATE_410"
+	provinces={
+		1650 2255 2820 4110 4646 5216 6167 7041 7224 7496 7722 10673 10715 10753 10805 10852 10881 10893 10923 10966 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = HDD
+		add_core_of = HDD
+		victory_points = { 10715 4 }
+		victory_points = { 7722 2 }
+	}
+}

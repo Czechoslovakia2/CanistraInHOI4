@@ -1,0 +1,18 @@
+state={
+	id=786
+	name="STATE_786"
+	provinces={
+		196 373 909 1317 1457 1491 1679 3203 3251 4366 4441 6776 6819 7370 8095 8429 14456 14537 14578 14627 14659 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = FOR
+		add_core_of = FOR
+		victory_points = { 1491 10 }
+		victory_points = { 909 2 }
+		victory_points = { 1457 5 }
+		victory_points = { 196 1 }
+	}
+}

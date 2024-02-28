@@ -1,0 +1,18 @@
+state={
+	id=781
+	name="STATE_781"
+	provinces={
+		2308 3233 3341 3478 3790 4316 5328 6530 8794 8868 14445 14446 14461 14473 14492 14516 14517 14518 14544 14551 14555 14571 14597 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = RED
+		add_core_of = RED
+		victory_points = { 3478 3 }
+		victory_points = { 3790 3 }
+		victory_points = { 14551 3 }
+		victory_points = { 14597 2 }
+	}
+}

@@ -1,0 +1,15 @@
+state={
+	id=154
+	name="STATE_154"
+	provinces={
+		1319 2375 3838 4451 5470 7391 8180 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = BYT
+		add_core_of = BYT
+		victory_points = { 8180 2 }
+	}
+}

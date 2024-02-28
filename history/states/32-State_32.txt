@@ -1,0 +1,15 @@
+state={
+	id=32
+	name="STATE_32"
+	provinces={
+		8212 8909 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = IGE
+		add_core_of = IGE
+		victory_points = { 8909 25 }
+	}
+}

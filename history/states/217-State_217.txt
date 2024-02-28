@@ -1,0 +1,19 @@
+
+state={
+	id=217
+	name="STATE_217"
+	provinces={
+		984 2443 4020 4101 4161 4529 4549 5795 6710 7288 7613 7915 15350 15357 15358 15380 15385 15391 15392 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = HJO
+		add_core_of = HJO
+		victory_points = { 4101 2 }
+		victory_points = { 6710 2 }
+		victory_points = { 4529 1 }
+		victory_points = { 984 4 }
+	}
+}

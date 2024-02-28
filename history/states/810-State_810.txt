@@ -1,0 +1,16 @@
+state={
+	id=810
+	name="STATE_810"
+	provinces={
+		504 787 1322 2988 3002 5558 5634 5833 8948 8999 9100 14713 14767 14783 14796 14840 14847 14852 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = IBA
+		add_core_of = IBA
+		victory_points = { 14713 2 }
+		victory_points = { 504 4 }
+	}
+}

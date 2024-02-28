@@ -1,0 +1,16 @@
+state={
+	id=457
+	name="STATE_457"
+	provinces={
+		804 2742 2891 3978 4531 4596 4665 5099 5508 5892 7094 7798 8613 8696 8872 8924 11315 11346 11353 11400 11424 11498 11539 11545 11571 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = CYI
+		add_core_of = CYI
+		victory_points = { 11400 2 }
+		victory_points = { 7798 3 }
+	}
+}

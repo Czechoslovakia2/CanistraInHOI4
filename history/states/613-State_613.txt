@@ -1,0 +1,18 @@
+state={
+	id=613
+	name="STATE_613"
+	provinces={
+		1569 3124 3993 5244 5547 5621 7016 7122 7386 8082 8522 9104 12628 12667 12712 12870 12900 12948 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = AAC
+		add_core_of = AAC
+		victory_points = { 8522 8 }
+		victory_points = { 12948 4 }
+		victory_points = { 5547 2 }
+		victory_points = { 12628 5 }
+	}
+}

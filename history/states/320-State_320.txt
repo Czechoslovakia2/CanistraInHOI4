@@ -1,0 +1,17 @@
+state={
+	id=320
+	name="STATE_320"
+	provinces={
+		84 207 500 1378 1954 2207 2420 3085 3243 4594 4961 5210 5408 5590 5641 6097 6152 7051 7549 7955 9131 9927 10054 10136 10148 10190 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = CIA
+		add_core_of = CIA
+		victory_points = { 10136 3 }
+		victory_points = { 7051 2 }
+		victory_points = { 3085 1 }
+	}
+}

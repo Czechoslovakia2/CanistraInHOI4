@@ -1,0 +1,19 @@
+state={
+	id=806
+	name="STATE_806"
+	provinces={
+		649 2813 2929 3140 3846 5149 6288 6953 7321 14596 14620 14635 14712 14716 14765 14771 14790 14805 14811 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = IBA
+		add_core_of = IBA
+		victory_points = { 3846 8 }
+		victory_points = { 649 2 }
+		victory_points = { 14765 15 }
+		victory_points = { 14712 4 }
+		victory_points = { 14620 3 }
+	}
+}

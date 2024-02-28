@@ -1,0 +1,15 @@
+state={
+	id=627
+	name="STATE_627"
+	provinces={
+		253 492 1030 1427 1591 1985 2531 2811 3750 4228 4934 5757 6350 6612 6768 6862 9166 12757 12787 12791 12802 12854 12869 12878 12888 12927 12937 12945 12946 12962 13031 13064 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = LYC
+		add_core_of = LYC
+		victory_points = { 2531 8 }
+	}
+}

@@ -1,0 +1,15 @@
+state={
+	id=475
+	name="STATE_475"
+	provinces={
+		729 761 2804 3753 4561 6512 11473 11507 11513 11524 
+	}
+	buildings_max_level_factor=1.000
+        manpower=810000
+        state_category = town
+	history = {
+        	owner = VIB
+		add_core_of = VIB
+		victory_points = { 729 2 }
+	}
+}

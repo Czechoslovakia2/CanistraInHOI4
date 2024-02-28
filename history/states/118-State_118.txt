@@ -1,0 +1,15 @@
+
+state={
+	id=118
+	name="STATE_118"
+	provinces={
+		1041 1469 12901 15475 15476 15478 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = HIR
+		add_core_of = HIR
+	}
+}

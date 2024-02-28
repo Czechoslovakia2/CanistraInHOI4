@@ -1,0 +1,16 @@
+
+state={
+	id=617
+	name="STATE_617"
+	provinces={
+		3765 3990 4350 7133 7476 12731 12769 12859 12912 12913 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = MAQ
+		add_core_of = MAQ
+		victory_points = { 12769 5 }
+	}
+}

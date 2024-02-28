@@ -1,0 +1,15 @@
+characters={
+	ESH_douglas_lockjaw={
+		name=ESH_CHARACTER_DOUGLAS_LOCKJAW
+		portraits={
+			civilian={
+				large="GFX_ESH_portrait_douglas_lockjaw"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1956.1.1.1"
+			desc=ESH_DOUGLAS_LOCKJAW_DESC
+		}
+	}
+}

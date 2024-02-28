@@ -1,0 +1,15 @@
+state={
+	id=447
+	name="STATE_447"
+	provinces={
+		101 1286 3162 3254 3373 4368 7044 7909 8296 11116 11123 11158 11180 11190 11204 11218 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = ENF
+		add_core_of = ENF
+		victory_points = { 11116 3 }
+	}
+}

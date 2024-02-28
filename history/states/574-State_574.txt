@@ -1,0 +1,18 @@
+
+state={
+	id=574
+	name="STATE_574"
+	provinces={
+		4227 4916 5661 6556 6814 7676 12253 12266 12296 12303 12345 12415 12461 12579 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = HAJ
+		add_core_of = HAJ
+		victory_points = { 12461 15 }
+		victory_points = { 12345 2 }
+		victory_points = { 6814 1 }
+	}
+}

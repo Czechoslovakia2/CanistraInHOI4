@@ -1,0 +1,17 @@
+state={
+	id=6
+	name="STATE_6"
+	provinces={
+		2110 4296 4371 4718 6266 6725 8271 9332 9334 9369 9371 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = JMH
+		add_core_of = JMH
+		victory_points = { 4718 3 }
+		victory_points = { 9369 25 }
+		victory_points = { 6725 5 }
+	}
+}

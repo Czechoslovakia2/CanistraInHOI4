@@ -1,0 +1,18 @@
+
+state={
+	id=136
+	name="STATE_136"
+	provinces={
+		1921 2330 2378 3498 3539 4359 4697 6924 6995 7324 8720 13464 13480 13485 13511 13518 13522 13538 13560 13628 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = SPF
+		add_core_of = SPF
+		victory_points = { 6995 1 }
+		victory_points = { 2378 2 }
+		victory_points = { 8720 1 }
+	}
+}

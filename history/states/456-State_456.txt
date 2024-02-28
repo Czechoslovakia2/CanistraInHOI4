@@ -1,0 +1,18 @@
+
+state={
+	id=456
+	name="STATE_456"
+	provinces={
+		1575 2302 4148 7087 7493 8584 8709 9095 9168 11215 11273 11287 11318 11330 11331 11375 11389 11440 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = HIR
+		add_core_of = HIR
+		victory_points = { 2302 35 }
+		victory_points = { 11318 5 }
+		victory_points = { 11331 3 }
+	}
+}

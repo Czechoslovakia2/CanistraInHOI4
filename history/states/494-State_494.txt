@@ -1,0 +1,16 @@
+state={
+	id=494
+	name="STATE_494"
+	provinces={
+		561 1234 1492 1583 1675 1938 3313 5397 6351 6500 11800 11825 11885 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = CRE
+		add_core_of = CRE
+		victory_points = { 1234 20 }
+		victory_points = { 3313 2 }
+	}
+}

@@ -1,0 +1,18 @@
+
+state={
+	id=712
+	name="STATE_712"
+	provinces={
+		1084 2070 2149 2812 3490 3594 3797 4149 6186 7489 8043 8080 8478 8489 13660 13700 13717 13727 13737 13767 13816 13836 13852 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = CHD
+		add_core_of = CHD
+		victory_points = { 2812 4 }
+		victory_points = { 3797 6 }
+		victory_points = { 2149 2 }
+	}
+}

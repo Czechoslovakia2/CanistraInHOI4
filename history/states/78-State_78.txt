@@ -1,0 +1,20 @@
+state={
+	id=78
+	name="STATE_78"
+	provinces={
+		470 1262 3563 5065 5091 5482 5620 6033 6072 7720 8064 9061 11527 11536 11604 11695 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+
+	history = {
+        	owner = NIO
+		add_core_of = NIO
+		victory_points = { 5482 20 }
+		victory_points = { 11527 15 }
+		victory_points = { 5620 3 }
+		victory_points = { 11604 3 }
+		victory_points = { 11695 2 }
+	}
+}

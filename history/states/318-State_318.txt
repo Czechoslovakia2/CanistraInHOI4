@@ -1,0 +1,15 @@
+state={
+	id=318
+	name="STATE_318"
+	provinces={
+		1100 2305 2805 5480 5655 7170 8312 9907 9955 9984 10071 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = LAK
+		add_core_of = LAK
+		victory_points = { 5655 2 }
+	}
+}

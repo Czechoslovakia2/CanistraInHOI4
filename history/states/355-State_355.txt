@@ -1,0 +1,18 @@
+state={
+	id=355
+	name="STATE_355"
+	provinces={
+		428 1227 1713 1715 2041 2598 3551 4333 4421 4728 7038 8455 8639 8784 8997 10161 10195 10256 10257 10276 10288 10296 10325 10343 10395 10447 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = HDD
+		add_core_of = HDD
+		victory_points = { 4728 30 }
+		victory_points = { 8455 3 }
+		victory_points = { 10395 3 }
+		victory_points = { 4333 4 }
+	}
+}

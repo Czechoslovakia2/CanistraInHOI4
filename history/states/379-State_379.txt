@@ -1,0 +1,16 @@
+
+state={
+	id=379
+	name="STATE_379"
+	provinces={
+		52 1976 3044 6608 10474 10497 10605 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = HDD
+		add_core_of = HDD
+		victory_points = { 52 2 }
+	}
+}

@@ -1,0 +1,15 @@
+state={
+	id=403
+	name="STATE_403"
+	provinces={
+		3624 3662 6985 7410 7451 8293 8861 10660 10683 10730 10736 10768 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = AFR
+		add_core_of = AFR
+		victory_points = { 8293 5 }
+	}
+}

@@ -1,0 +1,18 @@
+
+state={
+	id=642
+	name="STATE_642"
+	provinces={
+		40 332 483 1101 1116 1231 2160 3001 3148 4657 4781 4898 5460 5719 6079 6252 7326 8318 8356 8710 12813 12914 12930 12942 12989 12993 13013 13017 13047 13056 13089 13094 13152 13174 13223 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = MAQ
+		add_core_of = MAQ
+		victory_points = { 1116 4 }
+		victory_points = { 5460 2 }
+		victory_points = { 12989 2 }
+	}
+}

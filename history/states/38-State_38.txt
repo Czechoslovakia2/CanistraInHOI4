@@ -1,0 +1,15 @@
+state={
+	id=38
+	name="STATE_38"
+	provinces={
+		1005 2547 4189 5354 8871 10320 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = SOF
+		add_core_of = SOF
+		victory_points = { 2547 1 }
+	}
+}

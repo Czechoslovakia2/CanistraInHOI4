@@ -1,0 +1,17 @@
+state={
+	id=127
+	name="STATE_127"
+	provinces={
+		476 553 631 1025 3960 5510 7458 13254 13282 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = APA
+		add_core_of = APA
+		victory_points = { 5510 15 }
+		victory_points = { 631 2 }
+		victory_points = { 7458 2 }
+	}
+}

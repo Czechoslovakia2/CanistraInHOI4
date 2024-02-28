@@ -1,0 +1,18 @@
+state={
+	id=19
+	name="STATE_19"
+	provinces={
+		315 1658 3762 5938 7238 8448 9716 9739 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = IGE
+		add_core_of = IGE
+		victory_points = { 8448 10 }
+		victory_points = { 315 3 }
+		victory_points = { 9739 2 }
+		victory_points = { 5938 1 }
+	}
+}

@@ -1,0 +1,18 @@
+
+state={
+	id=704
+	name="STATE_704"
+	provinces={
+		5 227 1672 3200 4411 6053 6502 8277 8544 13736 13751 13774 13799 13845 13899 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = TGF
+		add_core_of = TGF
+		add_core_of = CNF
+		victory_points = { 6053 3 }
+		victory_points = { 227 4 }
+	}
+}

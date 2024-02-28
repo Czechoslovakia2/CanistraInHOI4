@@ -1,0 +1,16 @@
+
+state={
+	id=139
+	name="STATE_139"
+	provinces={
+		1895 2147 2187 2846 3297 4588 4654 4987 7570 8646 13326 13347 13355 13366 13375 13377 13405 13430 13437 15483 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = AUT
+		add_core_of = AUT
+		victory_points = { 7570 25 }
+	}
+}

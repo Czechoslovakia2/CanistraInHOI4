@@ -1,0 +1,16 @@
+state={
+	id=814
+	name="STATE_814"
+	provinces={
+		860 2290 2751 4458 5448 7306 14711 14751 14769 14814 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = PLK
+		add_core_of = PLK
+		add_core_of = RET
+		victory_points = { 14769 3 }
+	}
+}

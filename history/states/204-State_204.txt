@@ -1,0 +1,22 @@
+
+state={
+	id=204
+	name="STATE_204"
+	provinces={
+		578 710 1301 1568 2132 3752 4506 6416 6983 7328 7480 7924 8150 8151 8152 8964 15223 15270 15279 15289 15295 15307 15313 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = AVA
+		add_core_of = AVA
+		victory_points = { 15307 20 }
+		victory_points = { 578 2 }
+		victory_points = { 1301 2 }
+		victory_points = { 8964 3 }
+		victory_points = { 3752 2 }
+		victory_points = { 6983 2 }
+		victory_points = { 2132 1 }
+	}
+}

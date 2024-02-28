@@ -1,0 +1,15 @@
+
+state={
+	id=449
+	name="STATE_449"
+	provinces={
+		1037 2517 2530 4363 5257 5340 7825 8687 11184 11300 11370 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = DOW
+		add_core_of = DOW
+	}
+}

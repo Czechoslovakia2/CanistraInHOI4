@@ -1,0 +1,24 @@
+
+state={
+	id=160
+	name="STATE_160"
+	provinces={
+		399 773 1049 2049 2595 2983 3238 4005 4927 5926 6218 6433 7079 7209 7685 7927 8194 8430 8472 13473 13505 13517 13542 13546 13551 13570 13574 13584 13591 13610 13616 13627 13636 13651 13667 13668 13680 13695 13716 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = SPF
+		add_core_of = SPF
+		victory_points = { 13584 1 }
+		victory_points = { 13542 2 }
+		victory_points = { 4927 2 }
+		victory_points = { 13716 3 }
+		victory_points = { 13667 30 }
+		victory_points = { 13636 8 }
+		victory_points = { 8194 5 }
+		victory_points = { 7685 6 }
+		victory_points = { 8430 3 }
+	}
+}

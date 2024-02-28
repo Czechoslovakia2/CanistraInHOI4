@@ -1,0 +1,14 @@
+state={
+	id=699
+	name="STATE_699"
+	provinces={
+		1885 2410 4777 6600 7795 13575 13585 13590 13594 13613 13614 13615 13629 13633 13685 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = SEC
+		add_core_of = SEC
+	}
+}

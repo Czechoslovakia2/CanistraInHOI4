@@ -1,0 +1,19 @@
+
+state={
+	id=176
+	name="STATE_176"
+	provinces={
+		1727 2602 3736 4116 6275 6329 7579 8377 14231 14247 14288 14308 14321 14333 14387 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = ESH
+		add_core_of = ESH
+		victory_points = { 14308 3 }
+		victory_points = { 14333 2 }
+		victory_points = { 6275 4 }
+		victory_points = { 6329 2 }
+	}
+}

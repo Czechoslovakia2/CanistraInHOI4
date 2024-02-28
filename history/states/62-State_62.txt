@@ -1,0 +1,15 @@
+state={
+	id=62
+	name="STATE_62"
+	provinces={
+		2243 2418 2491 5567 6110 11187 11233 11268 11355 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = TRK
+		add_core_of = TRK
+		victory_points = { 5567 4 }
+	}
+}

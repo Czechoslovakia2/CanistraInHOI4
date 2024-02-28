@@ -1,0 +1,17 @@
+state={
+	id=778
+	name="STATE_778"
+	provinces={
+		661 1529 3111 3396 3891 5710 5764 6138 6617 6623 7212 7664 14294 14405 14426 14448 14449 14535 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = TGF
+		add_core_of = TGF
+		victory_points = { 3891 3 }
+		victory_points = { 1529 4 }
+		victory_points = { 14535 4 }
+	}
+}

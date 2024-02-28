@@ -1,0 +1,15 @@
+state={
+	id=554
+	name="STATE_554"
+	provinces={
+		1455 3086 3253 3967 3997 4206 4252 4892 5250 5293 5586 5895 9182 12079 12146 12249 12313 12323 12333 12334 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = ERS
+		add_core_of = ERS
+		victory_points = { 4892 4 }
+	}
+}

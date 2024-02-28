@@ -1,0 +1,16 @@
+
+state={
+	id=740
+	name="STATE_740"
+	provinces={
+		666 1295 2012 4601 5232 5600 6550 8729 14000 14027 14076 14087 14092 14107 14155 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = NAT
+		add_core_of = NAT
+		victory_points = { 14087 6 }
+	}
+}

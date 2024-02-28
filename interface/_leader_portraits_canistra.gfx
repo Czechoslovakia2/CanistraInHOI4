@@ -1,0 +1,64 @@
+spriteTypes = {
+
+	# this is hilariously out of order because i lost all motiviation to do this and i literally jumped around
+
+	spriteType = {
+		name = "GFX_portrait_operative_unknown"
+		texturefile = "gfx/leaders/operative_unknown.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_unknown"
+		texturefile = "gfx/leaders/leader_unknown.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_unknown_female"
+		texturefile = "gfx/leaders/leader_unknown_female.dds"
+	}
+
+	spriteType = {
+		name = "GFX_TGF_portrait_jacob_monier"
+		texturefile = "gfx/leaders/TGF/TGF_portrait_jacob_monier.dds"
+	}
+
+	spriteType = {
+		name = "GFX_VIB_portrait_sauron_morder"
+		texturefile = "gfx/leaders/VIB/VIB_portrait_sauron_morder.dds"
+	}
+
+	spriteType = {
+		name = "GFX_VIB_portrait_makiloi_maurnindaia"
+		texturefile = "gfx/leaders/VIB/VIB_portrait_makiloi_maurnindaia.dds"
+	}
+
+	spriteType = {
+		name = "GFX_VIB_portrait_cronus_i"
+		texturefile = "gfx/leaders/VIB/VIB_portrait_cronus_i_.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ORT_portrait_charles_valkner"
+		texturefile = "gfx/leaders/ORT/ORT_portrait_charles_valkner.dds"
+	}
+
+	spriteType = {
+		name = "GFX_VIB_portrait_dionard_kat"
+		texturefile = "gfx/leaders/VIB/VIB_portrait_dionard_kat.dds"
+	}
+
+	spriteType = {
+		name = "GFX_VIB_portrait_tape_lefunia"
+		texturefile = "gfx/leaders/VIB/VIB_portrait_tape_lefunia.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ESH_portrait_douglas_lockjaw"
+		texturefile = "gfx/leaders/ESH/ESH_portrait_douglas_lockjaw.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ALI_portrait_cairo_galvan"
+		texturefile = "gfx/leaders/ALI/ALI_portrait_cairo_galvan.dds"
+	}
+}

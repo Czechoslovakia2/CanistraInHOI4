@@ -1,0 +1,15 @@
+state={
+	id=8
+	name="STATE_8"
+	provinces={
+		2024 3953 4230 5014 7587 9361 9370 9387 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = HTH
+		add_core_of = HTH
+		victory_points = { 9361 15 }
+	}
+}

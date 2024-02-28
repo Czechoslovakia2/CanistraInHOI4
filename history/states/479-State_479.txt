@@ -1,0 +1,17 @@
+state={
+	id=479
+	name="STATE_479"
+	provinces={
+		103 509 789 1948 2285 2735 3421 3696 4059 4211 4292 4994 5362 5631 5654 7077 7260 8319 8496 11347 11392 11421 11437 11465 11494 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = WEL
+		add_core_of = WEL
+		add_core_of = FAR
+		victory_points = { 4211 3 }
+		victory_points = { 11437 10 }
+	}
+}

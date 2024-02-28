@@ -1,0 +1,14 @@
+state={
+	id=767
+	name="STATE_767"
+	provinces={
+		539 2518 5159 8127 8234 14265 14273 14315 14352 14370 14408 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = LLI
+		add_core_of = LLI
+	}
+}

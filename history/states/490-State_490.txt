@@ -1,0 +1,17 @@
+state={
+	id=490
+	name="STATE_490"
+	provinces={
+		16 2794 3693 3774 5309 5789 6651 6704 7002 7619 8157 8300 9013 9140 11460 11554 11581 11790 11840 
+	}
+	buildings_max_level_factor=1.000
+        manpower=3310000
+        state_category = large_town
+	history = {
+        	owner = VIB
+		add_core_of = VIB
+		victory_points = { 11790 3 }
+		victory_points = { 9140 2 }
+		victory_points = { 7619 2 }
+	}
+}

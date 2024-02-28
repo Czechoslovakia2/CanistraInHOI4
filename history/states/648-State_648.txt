@@ -1,0 +1,16 @@
+
+state={
+	id=648
+	name="STATE_648"
+	provinces={
+		209 376 822 1681 3337 3887 4275 4995 5165 5523 5680 6750 8525 8812 9099 13016 13105 13130 13144 13160 13161 13172 13189 13241 13262 13329 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = CYR
+		add_core_of = CYR
+		victory_points = { 13130 4 }
+	}
+}

@@ -1,0 +1,15 @@
+characters={
+	ORT_charles_valkner={
+		name=ORT_CHARACTER_CHARLES_VALKNER
+		portraits={
+			civilian={
+				large="GFX_ORT_portrait_charles_valkner"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1956.1.1.1"
+			desc=ORT_CHARLES_VALKNER_DESC
+		}
+	}
+}

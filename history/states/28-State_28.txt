@@ -1,0 +1,17 @@
+
+state={
+	id=28
+	name="STATE_28"
+	provinces={
+		563 1748 2244 2300 3050 4447 6871 10118 10175 10313 10365 10378 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = ASS
+		add_core_of = ASS
+		victory_points = { 10118 3 }
+		victory_points = { 1748 2 }
+	}
+}

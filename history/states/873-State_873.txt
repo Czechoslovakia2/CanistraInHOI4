@@ -1,0 +1,15 @@
+state={
+	id=873
+	name="STATE_873"
+	provinces={
+		1758 3258 3512 4944 5174 5242 5414 5664 5698 7062 7651 7693 8035 8215 8853 9162 15403 15404 15415 15422 15423 15432 15446 15449 15450 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = RET
+		add_core_of = PLK
+		add_core_of = RET
+	}
+}

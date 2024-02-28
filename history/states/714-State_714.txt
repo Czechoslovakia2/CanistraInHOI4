@@ -1,0 +1,16 @@
+state={
+	id=714
+	name="STATE_714"
+	provinces={
+		1388 3407 4835 5679 6802 7009 7546 7812 8331 8473 9037 13743 13756 13768 13782 13825 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = NAT
+		add_core_of = NAT
+		victory_points = { 13743 2 }
+		victory_points = { 7546 3 }
+	}
+}

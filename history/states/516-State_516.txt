@@ -1,0 +1,16 @@
+state={
+	id=516
+	name="STATE_516"
+	provinces={
+		3532 4297 5527 6315 7970 11879 11891 11905 11939 11940 12021 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = FRE
+		add_core_of = FRE
+		victory_points = { 6315 8 }
+		victory_points = { 11905 2 }
+	}
+}

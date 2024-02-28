@@ -1,0 +1,17 @@
+
+state={
+	id=793
+	name="STATE_793"
+	provinces={
+		994 1081 2103 2431 3406 3832 4095 4199 6006 6177 7512 8237 9080 14523 14552 14585 14611 14619 14652 14701 14733 14748 14816 15499 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = MIC
+		add_core_of = MIC
+		victory_points = { 2431 3 }
+		victory_points = { 14816 2 }
+	}
+}

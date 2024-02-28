@@ -1,0 +1,20 @@
+state={
+	id=686
+	name="STATE_686"
+	provinces={
+		135 441 1668 1749 2162 2560 2743 2862 3201 3769 3982 4176 4899 5391 5451 5540 5725 5730 6125 6667 7273 7294 7756 9055 13348 13349 13395 13400 13408 13428 13431 13438 13440 13459 13468 13486 13489 13494 13501 13506 13512 13519 13528 13543 13547 13555 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = WCS
+		add_core_of = WCS
+		victory_points = { 5391 30 }
+		victory_points = { 13494 2 }
+		victory_points = { 441 2 }
+		victory_points = { 135 4 }
+		victory_points = { 5451 3 }
+		victory_points = { 6125 2 }
+	}
+}

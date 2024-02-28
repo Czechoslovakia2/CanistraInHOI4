@@ -1,0 +1,18 @@
+state={
+	id=510
+	name="STATE_510"
+	provinces={
+		2021 2468 3102 6037 8143 8389 8514 8991 9208 11680 11787 11795 11824 11860 11890 11923 11962 12007 12090 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = PRT
+		add_core_of = PRT
+		victory_points = { 11923 4 }
+		victory_points = { 12090 3 }
+		victory_points = { 9208 3 }
+		victory_points = { 8514 2 }
+	}
+}

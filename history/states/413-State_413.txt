@@ -1,0 +1,15 @@
+state={
+	id=413
+	name="STATE_413"
+	provinces={
+		1949 2067 3052 3328 3554 4321 5955 7195 7202 7882 10793 10836 10842 10904 10950 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = AMP
+		add_core_of = AMP
+		victory_points = { 10904 15 }
+	}
+}

@@ -1,0 +1,14 @@
+state={
+	id=260
+	name="STATE_260"
+	provinces={
+		458 1919 6738 8412 9085 9525 9595 9633 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = KHR
+		add_core_of = KHR
+	}
+}

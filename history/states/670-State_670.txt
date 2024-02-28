@@ -1,0 +1,19 @@
+state={
+	id=670
+	name="STATE_670"
+	provinces={
+		719 897 1044 1595 2373 3755 5335 5534 5611 5768 7427 8214 8589 8917 9155 13288 13322 13323 13364 13387 13399 13425 13449 13458 13467 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = LAN
+		add_core_of = LAN
+		victory_points = { 13323 3 }
+		victory_points = { 1044 2 }
+		victory_points = { 8589 2 }
+		victory_points = { 719 3 }
+		victory_points = { 3755 1 }
+	}
+}

@@ -1,0 +1,15 @@
+state={
+	id=587
+	name="STATE_587"
+	provinces={
+		35 1309 1781 5100 6590 8235 12480 12510 12515 12538 12612 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = CYR
+		add_core_of = CYR
+		victory_points = { 35 2 }
+	}
+}

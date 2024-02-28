@@ -1,0 +1,16 @@
+
+state={
+	id=76
+	name="STATE_76"
+	provinces={
+		3169 3780 6162 6493 6811 9036 11408 11442 11459 11486 11487 11506 11522 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = FRO
+		add_core_of = FRO
+		victory_points = { 11408 2 }
+	}
+}

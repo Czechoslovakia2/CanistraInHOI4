@@ -1,0 +1,15 @@
+state={
+	id=618
+	name="STATE_618"
+	provinces={
+		953 4396 4636 6467 8132 12721 12943 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = AYR
+		add_core_of = AYR
+		victory_points = { 12943 10 }
+	}
+}

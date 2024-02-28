@@ -1,0 +1,20 @@
+state={
+	id=461
+	name="STATE_461"
+	provinces={
+		920 1407 2090 2298 2357 2647 4885 5965 6521 7116 8376 9028 9191 11272 11295 11308 11317 11339 11343 11364 11366 11393 11434 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = VRA
+		add_core_of = VRA
+		victory_points = { 4885 12 }
+		victory_points = { 920 3 }
+		victory_points = { 11343 6 }
+		victory_points = { 6521 3 }
+		victory_points = { 11295 3 }
+		victory_points = { 8376 2 }
+	}
+}

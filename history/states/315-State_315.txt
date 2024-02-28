@@ -1,0 +1,20 @@
+
+state={
+	id=315
+	name="STATE_315"
+	provinces={
+		189 268 653 721 929 1534 1795 1807 2247 2612 2643 2867 3090 3143 3171 3603 3723 4212 4582 5379 5539 5565 5781 6499 6618 6843 7241 8138 8390 8432 9004 9172 9687 9717 9726 9741 9761 9771 9780 9798 9799 9828 9860 9862 9889 9910 9911 9934 9949 9966 9980 9993 10016 10046 10085 10091 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = JMH
+		add_core_of = JMH
+		victory_points = { 9798 3 }
+		victory_points = { 268 3 }
+		victory_points = { 6618 2 }
+		victory_points = { 5539 4 }
+		victory_points = { 10046 2 }
+	}
+}

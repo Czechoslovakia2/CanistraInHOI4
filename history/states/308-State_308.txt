@@ -1,0 +1,14 @@
+state={
+	id=308
+	name="STATE_308"
+	provinces={
+		4667 5142 6325 9098 9900 9906 9945 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = HTH
+		add_core_of = HTH
+	}
+}

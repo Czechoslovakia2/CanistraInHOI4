@@ -1,0 +1,16 @@
+state={
+	id=324
+	name="STATE_324"
+	provinces={
+		626 1718 2148 2511 2693 3030 3100 3541 4866 5036 5054 5103 5893 6913 6967 7107 7299 7728 8259 8702 8913 9920 9989 10032 10087 10088 10188 10205 10247 10262 10300 10301 10339 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = ZAP
+		add_core_of = ZAP
+		victory_points = { 7299 25 }
+		victory_points = { 10301 3 }
+	}
+}

@@ -1,0 +1,18 @@
+state={
+	id=591
+	name="STATE_591"
+	provinces={
+		749 1307 1817 2108 2936 2965 2984 3207 3860 4045 4332 4456 4872 5028 5083 5262 5355 5562 5726 5737 5741 5752 5886 6017 12190 12226 12255 12319 12375 12379 12394 12395 12427 12428 12443 12470 12475 12497 12511 12522 12550 12568 12570 12623 12650 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = RYZ
+		add_core_of = RYZ
+		victory_points = { 12255 5 }
+		victory_points = { 1817 4 }
+		victory_points = { 4045 2 }
+		victory_points = { 12522 5 }
+	}
+}

@@ -1,0 +1,15 @@
+state={
+	id=659
+	name="STATE_659"
+	provinces={
+		1638 1889 2068 2250 2493 2819 4369 4580 5869 6081 6099 6592 7527 8040 8156 9066 13168 13194 13255 13256 13272 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = CYR
+		add_core_of = CYR
+		victory_points = { 6592 3 }
+	}
+}

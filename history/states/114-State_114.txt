@@ -1,0 +1,18 @@
+
+state={
+	id=114
+	name="STATE_114"
+	provinces={
+		1190 1252 2540 2808 3056 3907 4113 4460 6415 7436 8792 13112 13117 13143 13147 13162 13196 13212 13250 13265 13269 13273 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = ESS
+		add_core_of = ESS
+		victory_points = { 13196 5 }
+		victory_points = { 1252 15 }
+		victory_points = { 2540 2 }
+	}
+}

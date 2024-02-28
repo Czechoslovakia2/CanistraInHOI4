@@ -1,0 +1,15 @@
+
+state={
+	id=171
+	name="STATE_171"
+	provinces={
+		955 1974 4446 4658 4706 4893 9078 13965 13999 14036 14075 14113 14124 14128 14180 15492 15493 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = TGF
+		add_core_of = TGF
+	}
+}

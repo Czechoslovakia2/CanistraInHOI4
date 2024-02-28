@@ -1,0 +1,14 @@
+state={
+	id=221
+	name="STATE_221"
+	provinces={
+		1254 3327 3852 4126 7735 9219 9220 9221 9225 9227 9234 9244 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = APU
+		add_core_of = APU
+	}
+}

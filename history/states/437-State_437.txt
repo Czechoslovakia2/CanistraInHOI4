@@ -1,0 +1,20 @@
+state={
+	id=437
+	name="STATE_437"
+	provinces={
+		425 463 611 738 991 1155 2282 2700 4254 4624 5770 5930 6475 6955 7433 7505 11090 11091 11135 11149 11199 11202 11206 11221 11243 11292 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = ROS
+		add_core_of = ROS
+		victory_points = { 7505 4 }
+		victory_points = { 2700 4 }
+		victory_points = { 4624 3 }
+		victory_points = { 11221 2 }
+		victory_points = { 11199 1 }
+		victory_points = { 11243 2 }
+	}
+}

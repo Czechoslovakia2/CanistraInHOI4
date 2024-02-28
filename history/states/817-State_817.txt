@@ -1,0 +1,17 @@
+state={
+	id=817
+	name="STATE_817"
+	provinces={
+		155 183 1045 1531 1836 3770 4455 4630 5624 5756 6036 6260 8372 14709 14731 14737 14741 14774 14793 14794 14821 14829 14891 14905 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = STE
+		add_core_of = STE
+		victory_points = { 14737 1 }
+		victory_points = { 14794 1 }
+		victory_points = { 6260 5 }
+	}
+}

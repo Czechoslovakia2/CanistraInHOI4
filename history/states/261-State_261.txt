@@ -1,0 +1,17 @@
+state={
+	id=261
+	name="STATE_261"
+	provinces={
+		119 566 736 906 2384 2566 2879 3188 4251 4757 4993 5128 5168 5358 5907 6948 7519 7940 8333 9447 9451 9483 9486 9514 9545 9546 9556 9594 9610 9627 9663 9679 9754 9756 9839 9886 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = SYL
+		add_core_of = SYL
+		victory_points = { 4757 4 }
+		victory_points = { 8333 3 }
+		victory_points = { 9886 5 }
+	}
+}

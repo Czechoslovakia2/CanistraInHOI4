@@ -1,0 +1,22 @@
+state={
+	id=662
+	name="STATE_662"
+	provinces={
+		95 242 614 742 1211 1274 1937 1979 2007 2080 2245 2393 2637 2801 2978 3228 3391 3716 3972 4086 5751 5912 5943 6005 7373 8218 8344 8404 8491 13030 13041 13081 13165 13193 13218 13300 13339 13383 13406 13444 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = LAN
+		add_core_of = LAN
+		victory_points = { 2637 20 }
+		victory_points = { 13041 2 }
+		victory_points = { 8218 2 }
+		victory_points = { 95 2 }
+		victory_points = { 2393 3 }
+		victory_points = { 8491 4 }
+		victory_points = { 242 2 }
+		victory_points = { 2080 3 }
+	}
+}

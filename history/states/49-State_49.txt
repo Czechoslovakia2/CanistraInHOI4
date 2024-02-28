@@ -1,0 +1,15 @@
+state={
+	id=49
+	name="STATE_49"
+	provinces={
+		133 1443 3339 4732 6362 6808 10742 10759 10796 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = HIR
+		add_core_of = HIR
+		victory_points = { 6808 8 }
+	}
+}

@@ -1,0 +1,16 @@
+state={
+	id=760
+	name="STATE_760"
+	provinces={
+		856 2486 2619 5363 6893 8504 8520 14246 14267 14274 14331 14377 14391 14418 14434 14462 14480 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = CNB
+		add_core_of = CNB
+		victory_points = { 14331 3 }
+		victory_points = { 14377 5 }
+	}
+}

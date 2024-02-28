@@ -1,0 +1,17 @@
+
+state={
+	id=795
+	name="STATE_795"
+	provinces={
+		233 2380 2975 3239 4356 4470 4543 5594 5668 5774 5900 6227 6303 6324 7280 8368 8841 14569 14625 14662 14668 14747 14759 14786 14797 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = TGF
+		add_core_of = TGF
+		victory_points = { 7280 25 }
+		victory_points = { 2975 3 }
+	}
+}

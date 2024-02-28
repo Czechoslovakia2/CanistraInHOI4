@@ -1,0 +1,15 @@
+state={
+	id=29
+	name="STATE_29"
+	provinces={
+		3298 3908 5820 10030 10051 10082 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = KUN
+		add_core_of = KUN
+		victory_points = { 10030 15 }
+	}
+}

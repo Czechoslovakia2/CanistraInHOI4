@@ -1,0 +1,17 @@
+
+state={
+	id=644
+	name="STATE_644"
+	provinces={
+		2460 3007 4876 5522 5829 6080 8100 12876 12954 13108 13179 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = USI
+		add_core_of = USI
+		victory_points = { 8100 15 }
+		victory_points = { 5522 3 }
+	}
+}

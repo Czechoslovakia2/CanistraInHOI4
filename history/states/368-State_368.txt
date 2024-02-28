@@ -1,0 +1,21 @@
+state={
+	id=368
+	name="STATE_368"
+	provinces={
+		324 1265 2261 3141 3154 3702 4063 4576 5662 6268 6635 7011 7043 7334 7349 7652 7951 8101 8558 10308 10338 10368 10390 10398 10404 10411 10455 10458 10459 10481 10520 10525 10576 10591 10621 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = ZAP
+		add_core_of = ZAP
+		victory_points = { 10455 40 }
+		victory_points = { 3141 3 }
+		victory_points = { 10459 4 }
+		victory_points = { 7951 5 }
+		victory_points = { 10621 6 }
+		victory_points = { 5662 3 }
+		victory_points = { 10338 1 }
+	}
+}

@@ -1,0 +1,15 @@
+state={
+	id=79
+	name="STATE_79"
+	provinces={
+		1935 8464 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = ERS
+		add_core_of = ERS
+		victory_points = { 8464 5 }
+	}
+}

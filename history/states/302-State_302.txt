@@ -1,0 +1,15 @@
+state={
+	id=302
+	name="STATE_302"
+	provinces={
+		3119 3613 4788 5204 6031 7301 7487 9803 9859 9873 9946 9947 9953 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = EQU
+		add_core_of = EQU
+		victory_points = { 3119 2 }
+	}
+}

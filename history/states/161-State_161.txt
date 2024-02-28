@@ -1,0 +1,16 @@
+
+state={
+	id=161
+	name="STATE_161"
+	provinces={
+		452 2023 2581 2616 4208 6598 8995 9197 14178 14214 14221 14253 14302 14313 14342 14357 14412 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = IBA
+		add_core_of = IBA
+		victory_points = { 14302 3 }
+	}
+}

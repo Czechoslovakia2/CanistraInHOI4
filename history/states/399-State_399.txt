@@ -1,0 +1,19 @@
+
+state={
+	id=399
+	name="STATE_399"
+	provinces={
+		143 1087 1413 1772 1832 2490 3473 3564 4924 5045 6258 6489 6695 7367 7627 7736 8949 10499 10503 10543 10565 10566 10619 10648 10650 10667 10670 10691 10713 10748 10773 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = KUN
+		add_core_of = KUN
+		victory_points = { 1413 3 }
+		victory_points = { 10543 3 }
+		victory_points = { 6489 2 }
+		victory_points = { 10648 3 }
+	}
+}

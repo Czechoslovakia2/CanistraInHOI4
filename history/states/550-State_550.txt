@@ -1,0 +1,16 @@
+state={
+	id=550
+	name="STATE_550"
+	provinces={
+		28 440 482 1154 1251 1642 1868 2665 3533 4064 4711 5644 6191 6204 6740 7609 8760 8895 12003 12050 12080 12100 12106 12170 12208 12232 12233 12352 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = MAK
+		add_core_of = MAK
+		victory_points = { 3533 3 }
+		victory_points = { 12208 2 }
+	}
+}

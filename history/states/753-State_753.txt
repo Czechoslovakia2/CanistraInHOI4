@@ -1,0 +1,18 @@
+state={
+	id=753
+	name="STATE_753"
+	provinces={
+		176 1095 1527 1829 3083 3566 4283 4343 5731 5754 6460 6662 7381 7536 7760 8276 8309 8380 14210 14226 14248 14389 14390 14398 14476 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = BYT
+		add_core_of = BYT
+		victory_points = { 14248 2 }
+		victory_points = { 8380 3 }
+		victory_points = { 5754 2 }
+		victory_points = { 4283 4 }
+	}
+}

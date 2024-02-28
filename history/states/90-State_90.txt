@@ -1,0 +1,17 @@
+
+state={
+	id=90
+	name="STATE_90"
+	provinces={
+		1343 3306 3329 3808 7290 8534 11748 11990 12051 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = GRM
+		add_core_of = GRM
+		victory_points = { 3329 5 }
+		victory_points = { 3808 6 }
+	}
+}

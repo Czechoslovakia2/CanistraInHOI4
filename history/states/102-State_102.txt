@@ -1,0 +1,15 @@
+state={
+	id=102
+	name="STATE_102"
+	provinces={
+		262 389 12398 12457 12492 12523 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = DIC
+		add_core_of = DIC
+		victory_points = { 12457 1 }
+	}
+}

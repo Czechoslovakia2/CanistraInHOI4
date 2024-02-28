@@ -1,0 +1,15 @@
+state={
+	id=580
+	name="STATE_580"
+	provinces={
+		223 868 3227 3325 5479 6713 7269 7412 8245 9084 12358 12392 12506 12625 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = HAJ
+		add_core_of = HAJ
+		victory_points = { 223 3 }
+	}
+}

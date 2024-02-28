@@ -1,0 +1,16 @@
+state={
+	id=73
+	name="STATE_73"
+	provinces={
+		2778 2882 5230 7342 7857 8614 8770 11472 11505 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = MDI
+		add_core_of = MDI
+		victory_points = { 11505 4 }
+		victory_points = { 7342 1 }
+	}
+}

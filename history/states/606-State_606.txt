@@ -1,0 +1,16 @@
+state={
+	id=606
+	name="STATE_606"
+	provinces={
+		134 508 1950 2196 5483 6498 6830 7064 7178 12672 12711 12718 12804 12812 12814 12838 12910 12964 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = HAJ
+		add_core_of = HAJ
+		victory_points = { 134 3 }
+		victory_points = { 12910 3 }
+	}
+}

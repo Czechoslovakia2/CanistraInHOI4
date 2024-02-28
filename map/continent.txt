@@ -1,0 +1,7 @@
+continents = {
+	goldilocks
+	wernheria
+	borealis
+	oaterra
+	meridion
+}

@@ -1,0 +1,19 @@
+
+state={
+	id=119
+	name="STATE_119"
+	provinces={
+		1132 1964 2417 2818 3107 3500 4130 4702 4878 5325 5441 5704 6002 6092 6127 6805 7270 8268 13531 13604 13663 13697 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = TGF
+		add_core_of = TGF
+		add_core_of = ORT
+		victory_points = { 7270 5 }
+		victory_points = { 6805 3 }
+		victory_points = { 2818 2 }
+	}
+}

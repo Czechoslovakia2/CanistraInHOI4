@@ -1,0 +1,14 @@
+state={
+	id=264
+	name="STATE_264"
+	provinces={
+		211 765 1328 4248 7014 7524 7841 8364 9468 9478 9505 9530 9553 9566 9629 9631 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = EQU
+		add_core_of = EQU
+	}
+}

@@ -1,0 +1,15 @@
+state={
+	id=51
+	name="STATE_51"
+	provinces={
+		684 1036 2286 4575 5327 7086 7566 8822 8825 10734 10751 10822 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = MOS
+		add_core_of = MOS
+		victory_points = { 684 2 }
+	}
+}

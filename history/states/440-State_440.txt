@@ -1,0 +1,17 @@
+state={
+	id=440
+	name="STATE_440"
+	provinces={
+		2289 3751 3828 4223 4243 4794 6253 7010 8203 8708 11043 11070 11076 11081 11136 11142 11143 11177 11211 11258 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = MOS
+		add_core_of = MOS
+		victory_points = { 7010 3 }
+		victory_points = { 11177 1 }
+		victory_points = { 3751 1 }
+	}
+}

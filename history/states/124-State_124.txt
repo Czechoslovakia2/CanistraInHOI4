@@ -1,0 +1,17 @@
+state={
+	id=124
+	name="STATE_124"
+	provinces={
+		122 1466 1798 2143 5758 7093 7438 8516 13088 13103 13121 13192 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = OBE
+		add_core_of = OBE
+		victory_points = { 8516 2 }
+		victory_points = { 13088 3 }
+		victory_points = { 122 2 }
+	}
+}

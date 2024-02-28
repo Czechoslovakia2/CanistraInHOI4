@@ -1,0 +1,17 @@
+
+state={
+	id=203
+	name="STATE_203"
+	provinces={
+		796 2331 3012 3418 4024 5874 14376 14416 14460 14471 14482 14521 14539 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = TGF
+		add_core_of = TGF
+		victory_points = { 14460 25 }
+		victory_points = { 14471 3 }
+	}
+}

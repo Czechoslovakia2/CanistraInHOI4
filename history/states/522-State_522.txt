@@ -1,0 +1,15 @@
+state={
+	id=522
+	name="STATE_522"
+	provinces={
+		307 321 1367 4231 6594 6741 7033 7561 7641 8415 11729 12030 12082 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = MAK
+		add_core_of = MAK
+		victory_points = { 11729 15 }
+	}
+}

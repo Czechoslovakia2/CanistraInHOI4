@@ -1,0 +1,16 @@
+
+state={
+	id=151
+	name="STATE_151"
+	provinces={
+		633 1876 2342 2454 4096 4393 8538 13114 13116 13184 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = TRO
+		add_core_of = TRO
+		victory_points = { 2454 1 }
+	}
+}

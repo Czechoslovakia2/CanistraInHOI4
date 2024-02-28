@@ -1,0 +1,18 @@
+
+state={
+	id=693
+	name="STATE_693"
+	provinces={
+		445 610 1108 2771 3689 4730 5824 6216 7759 8077 8778 13671 13687 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = KVY
+		add_core_of = KVY
+		victory_points = { 3689 3 }
+		victory_points = { 8778 4 }
+		victory_points = { 2771 1 }
+	}
+}

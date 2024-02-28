@@ -1,0 +1,16 @@
+state={
+	id=551
+	name="STATE_551"
+	provinces={
+		256 278 293 1809 2971 3898 6529 6904 7136 8779 8800 12072 12097 12113 12138 12166 12231 12284 12292 12329 12339 12378 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = ATF
+		add_core_of = ATF
+		victory_points = { 12329 2 }
+		victory_points = { 293 3 }
+	}
+}

@@ -1,0 +1,18 @@
+
+state={
+	id=74
+	name="STATE_74"
+	provinces={
+		728 1242 2631 3548 4066 5732 6367 6552 6674 6928 8126 11320 11332 11453 11495 11537 11563 11592 11600 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = HIR
+		add_core_of = HIR
+		add_core_of = AKI
+		victory_points = { 6367 2 }
+		victory_points = { 11563 3 }
+	}
+}

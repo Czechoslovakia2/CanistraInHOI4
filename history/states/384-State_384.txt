@@ -1,0 +1,15 @@
+state={
+	id=384
+	name="STATE_384"
+	provinces={
+		1719 3112 3559 7595 8104 8261 8877 10518 10544 10557 10587 10602 10607 10651 10685 10698 10728 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = TIA
+		add_core_of = TIA
+		victory_points = { 10587 3 }
+	}
+}

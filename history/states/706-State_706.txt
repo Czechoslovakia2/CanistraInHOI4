@@ -1,0 +1,18 @@
+
+state={
+	id=706
+	name="STATE_706"
+	provinces={
+		190 1415 4040 4334 4353 4535 5158 5300 5903 6659 6993 7691 8170 8752 13726 13759 13775 13810 13916 13942 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = DER
+		add_core_of = DER
+		victory_points = { 5300 2 }
+		victory_points = { 4353 1 }
+		victory_points = { 5903 2 }
+	}
+}

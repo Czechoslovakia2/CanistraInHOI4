@@ -1,0 +1,17 @@
+state={
+	id=423
+	name="STATE_423"
+	provinces={
+		1023 1899 3869 3878 4374 4471 4536 4786 5060 5387 5746 5967 6613 8602 8898 10761 10817 10826 10887 10943 10944 11030 11037 11065 11084 11095 11152 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = AMP
+		add_core_of = AMP
+		victory_points = { 11030 2 }
+		victory_points = { 10944 3 }
+		victory_points = { 8602 1 }
+	}
+}

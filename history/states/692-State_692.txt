@@ -1,0 +1,15 @@
+state={
+	id=692
+	name="STATE_692"
+	provinces={
+		680 1788 3281 3793 4790 5332 5715 6508 6956 7139 7327 8735 13541 13592 13631 13643 13656 13694 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = ASC
+		add_core_of = ASC
+		victory_points = { 8735 1 }
+	}
+}

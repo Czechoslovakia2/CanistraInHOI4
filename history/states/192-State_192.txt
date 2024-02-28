@@ -1,0 +1,16 @@
+
+state={
+	id=192
+	name="STATE_192"
+	provinces={
+		1012 2446 5936 6060 6173 6690 7687 8424 9142 14506 14576 14647 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = IBA
+		add_core_of = IBA
+		victory_points = { 2446 3 }
+	}
+}

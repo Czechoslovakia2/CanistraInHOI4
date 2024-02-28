@@ -1,0 +1,15 @@
+state={
+	id=698
+	name="STATE_698"
+	provinces={
+		71 265 280 359 393 403 522 980 1894 1966 2696 2966 3636 3672 3782 4311 4584 5167 6300 8951 13424 13561 13618 13634 13640 13661 13675 13676 13693 13702 13729 13769 13770 13771 13801 13803 13806 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = APA
+		add_core_of = APA
+		victory_points = { 980 5 }
+	}
+}

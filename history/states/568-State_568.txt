@@ -1,0 +1,17 @@
+
+state={
+	id=568
+	name="STATE_568"
+	provinces={
+		484 4780 7366 9130 12177 12212 12217 12265 12423 12481 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = CYR
+		add_core_of = CYR
+		victory_points = { 12177 4 }
+		victory_points = { 4780 2 }
+	}
+}

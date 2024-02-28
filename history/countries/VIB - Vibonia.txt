@@ -1,0 +1,22 @@
+capital = 531
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1935.12.1"
+	election_frequency = 36
+	elections_allowed = yes
+}
+
+set_popularities = {
+	democratic = 81
+	fascism = 10
+	communism = 3
+	neutrality = 5
+    monarchism = 1
+}
+
+recruit_character = VIB_sauron_morder
+recruit_character = VIB_makiloi_maurnindaia
+recruit_character = VIB_cronus_i
+recruit_character = VIB_dionard_kat
+recruit_character = VIB_tape_lefunia

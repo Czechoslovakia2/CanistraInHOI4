@@ -1,0 +1,16 @@
+state={
+	id=484
+	name="STATE_484"
+	provinces={
+		1136 1193 1669 1696 3775 4221 5574 6909 7389 7860 8189 8310 8536 8810 8921 11535 11578 11588 11598 11603 11628 11664 11720 11725 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = MDI
+		add_core_of = MDI
+		victory_points = { 1696 2 }
+		victory_points = { 5574 3 }
+	}
+}

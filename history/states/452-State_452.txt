@@ -1,0 +1,20 @@
+state={
+	id=452
+	name="STATE_452"
+	provinces={
+		234 269 461 840 951 1002 1654 1724 1775 2509 2512 2757 2852 3357 4046 5018 5336 5376 5381 6348 6429 6442 6616 6620 6877 7006 7534 7540 7958 7983 8407 8569 11033 11034 11079 11182 11209 11228 11265 11274 11275 11294 11301 11328 11383 11384 11410 11430 11548 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = ENF
+		add_core_of = ENF
+		victory_points = { 840 20 }
+		victory_points = { 11033 1 }
+		victory_points = { 7006 3 }
+		victory_points = { 461 3 }
+		victory_points = { 1724 2 }
+		victory_points = { 6442 4 }
+	}
+}

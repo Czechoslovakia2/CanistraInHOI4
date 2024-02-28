@@ -1,0 +1,17 @@
+
+state={
+	id=824
+	name="STATE_824"
+	provinces={
+		297 409 665 1102 3466 4682 6636 6849 6968 14808 14815 14881 14889 15003 15034 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = MAU
+		add_core_of = MAU
+		victory_points = { 3466 3 }
+		victory_points = { 15003 4 }
+	}
+}

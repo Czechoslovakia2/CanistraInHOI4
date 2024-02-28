@@ -1,0 +1,16 @@
+state={
+	id=347
+	name="STATE_347"
+	provinces={
+		1128 1489 2584 2591 5410 5845 6523 6687 7199 8131 8630 10090 10211 10214 10238 10269 10290 10319 10346 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = BAL
+		add_core_of = BAL
+		victory_points = { 6687 4 }
+		victory_points = { 10238 2 }
+	}
+}

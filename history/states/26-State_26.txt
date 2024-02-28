@@ -1,0 +1,14 @@
+state={
+	id=26
+	name="STATE_26"
+	provinces={
+		635 4890 5994 6478 7318 9902 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = ZAP
+		add_core_of = ZAP
+	}
+}

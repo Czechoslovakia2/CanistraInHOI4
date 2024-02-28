@@ -1,0 +1,19 @@
+state={
+	id=445
+	name="STATE_445"
+	provinces={
+		229 724 1915 2032 2710 3129 3219 3735 4044 4132 4692 5080 5437 5872 5921 6150 6786 6988 6989 7444 7504 8394 9075 11019 11069 11072 11087 11117 11126 11176 11194 11219 11281 11286 11451 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = SOF
+		add_core_of = SOF
+		victory_points = { 11072 5 }
+		victory_points = { 11286 2 }
+		victory_points = { 1915 4 }
+		victory_points = { 4044 25 }
+		victory_points = { 3735 3 }
+	}
+}

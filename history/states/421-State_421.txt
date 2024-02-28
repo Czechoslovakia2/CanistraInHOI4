@@ -1,0 +1,17 @@
+
+state={
+	id=421
+	name="STATE_421"
+	provinces={
+		391 952 1610 1769 3356 3377 4971 7379 7848 8314 8586 8816 9046 10790 10837 10853 10968 10973 11031 11044 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = DOW
+		add_core_of = DOW
+		victory_points = { 7848 4 }
+		victory_points = { 391 6 }
+	}
+}

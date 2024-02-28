@@ -1,0 +1,14 @@
+state={
+	id=466
+	name="STATE_466"
+	provinces={
+		1341 3742 4403 7816 8453 11450 11496 11553 11558 11594 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = MDI
+		add_core_of = MDI
+	}
+}

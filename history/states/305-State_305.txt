@@ -1,0 +1,15 @@
+state={
+	id=305
+	name="STATE_305"
+	provinces={
+		1902 4360 9877 9923 9969 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = NRT
+		add_core_of = NRT
+		victory_points = { 9877 2 }
+	}
+}

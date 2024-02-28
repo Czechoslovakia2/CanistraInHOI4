@@ -1,0 +1,14 @@
+state={
+	id=426
+	name="STATE_426"
+	provinces={
+		411 1389 2656 2857 3504 3939 4742 7355 7767 8733 10884 10917 10939 11009 11060 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = DOW
+		add_core_of = DOW
+	}
+}

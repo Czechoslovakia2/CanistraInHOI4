@@ -1,0 +1,17 @@
+state={
+	id=684
+	name="STATE_684"
+	provinces={
+		68 812 1789 1803 3531 4076 5032 6071 7453 7626 8907 9164 13369 13466 13500 13526 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = ASC
+		add_core_of = ASC
+		victory_points = { 13500 15 }
+		victory_points = { 13526 2 }
+		victory_points = { 8907 2 }
+	}
+}

@@ -1,0 +1,16 @@
+
+state={
+	id=125
+	name="STATE_125"
+	provinces={
+		424 473 1737 3921 4668 6570 7066 8693 8738 9184 12815 12879 12949 12994 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = AAC
+		add_core_of = AAC
+		victory_points = { 473 4 }
+	}
+}

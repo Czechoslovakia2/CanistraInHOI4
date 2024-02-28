@@ -1,0 +1,16 @@
+state={
+	id=67
+	name="STATE_67"
+	provinces={
+		1886 2724 3761 9086 11365 11374 11409 
+	}
+	buildings_max_level_factor=1.000
+        manpower=600000
+        state_category = town
+	history = {
+        	owner = VIB
+		add_core_of = VIB
+		victory_points = { 2724 1 }
+		victory_points = { 1886 2 }
+	}
+}

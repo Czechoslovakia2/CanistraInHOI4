@@ -1,0 +1,15 @@
+state={
+	id=537
+	name="STATE_537"
+	provinces={
+		383 454 478 2335 3429 4461 4887 5705 8250 8468 12011 12038 12067 12093 12103 12149 12240 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = RST
+		add_core_of = RST
+		victory_points = { 12240 3 }
+	}
+}

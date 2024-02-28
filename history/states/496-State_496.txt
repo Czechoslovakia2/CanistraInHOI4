@@ -1,0 +1,16 @@
+state={
+	id=496
+	name="STATE_496"
+	provinces={
+		1939 3121 4065 5321 7080 7775 8635 8916 11671 11719 11776 11836 11903 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = VIP
+		add_core_of = VIP
+		victory_points = { 7775 2 }
+		victory_points = { 7080 2 }
+	}
+}

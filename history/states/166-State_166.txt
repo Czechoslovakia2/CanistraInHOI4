@@ -1,0 +1,14 @@
+state={
+	id=166
+	name="STATE_166"
+	provinces={
+		3553 5572 7526 13924 13951 13962 13973 14012 14015 14054 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = LLI
+		add_core_of = LLI
+	}
+}

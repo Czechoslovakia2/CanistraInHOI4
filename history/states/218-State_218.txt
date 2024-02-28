@@ -1,0 +1,17 @@
+
+state={
+	id=218
+	name="STATE_218"
+	provinces={
+		131 3025 3237 4284 5303 5350 8551 15352 15354 15360 15368 15375 15381 15388 15390 15398 15506 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = HJO
+		add_core_of = HJO
+		victory_points = { 15354 10 }
+		victory_points = { 3025 2 }
+	}
+}

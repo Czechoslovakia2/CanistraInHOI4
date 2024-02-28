@@ -1,0 +1,18 @@
+capital = 768
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1932.11.4"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_popularities = {
+	democratic = 92
+	fascism = 4
+	communism = 2
+	neutrality = 1
+    monarchism = 1
+}
+
+recruit_character = ESH_douglas_lockjaw

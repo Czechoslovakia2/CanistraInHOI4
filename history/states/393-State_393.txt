@@ -1,0 +1,16 @@
+state={
+	id=393
+	name="STATE_393"
+	provinces={
+		128 1199 2192 2403 2841 3322 3405 9187 10480 10588 10652 10656 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = HDD
+		add_core_of = HDD
+		victory_points = { 1199 8 }
+		victory_points = { 2403 6 }
+	}
+}

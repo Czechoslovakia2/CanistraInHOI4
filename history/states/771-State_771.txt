@@ -1,0 +1,14 @@
+state={
+	id=771
+	name="STATE_771"
+	provinces={
+		4204 4724 6038 8743 14417 14422 14450 14467 14475 14538 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = MIC
+		add_core_of = MIC
+	}
+}

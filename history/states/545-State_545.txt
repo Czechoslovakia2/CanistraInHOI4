@@ -1,0 +1,15 @@
+state={
+	id=545
+	name="STATE_545"
+	provinces={
+		555 2231 2295 4493 4948 5493 7123 7447 12018 12140 12167 12179 12210 12248 12299 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = GRM
+		add_core_of = GRM
+		victory_points = { 12179 20 }
+	}
+}

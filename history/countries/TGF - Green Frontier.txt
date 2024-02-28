@@ -1,0 +1,18 @@
+capital = 821
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1932.11.4"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_popularities = {
+	democratic = 75
+	fascism = 15
+	communism = 5
+	neutrality = 3
+    monarchism = 2
+}
+
+recruit_character = TGF_jacob_monier

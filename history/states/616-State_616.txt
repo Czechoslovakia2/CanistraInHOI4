@@ -1,0 +1,14 @@
+state={
+	id=616
+	name="STATE_616"
+	provinces={
+		1021 1665 2777 3184 4746 7284 12756 12794 12833 12885 12978 13014 13020 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = ASC
+		add_core_of = ASC
+	}
+}

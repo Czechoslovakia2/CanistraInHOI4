@@ -1,0 +1,14 @@
+state={
+	id=707
+	name="STATE_707"
+	provinces={
+		127 2079 2372 6412 8223 8606 13679 13692 13748 13752 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = CHD
+		add_core_of = CHD
+	}
+}

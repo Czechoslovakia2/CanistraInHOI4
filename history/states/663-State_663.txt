@@ -1,0 +1,21 @@
+state={
+	id=663
+	name="STATE_663"
+	provinces={
+		27 322 625 847 1746 2239 2367 2573 2765 2956 2973 3204 3264 3630 4102 4203 4210 4504 6479 6486 6599 6670 7088 7174 7861 8260 8403 8572 8977 13142 13149 13226 13260 13278 13324 13336 13343 13365 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = OBE
+		add_core_of = OBE
+		victory_points = { 8977 15 }
+		victory_points = { 4102 1 }
+		victory_points = { 13226 1 }
+		victory_points = { 6486 2 }
+		victory_points = { 13142 2 }
+		victory_points = { 847 1 }
+		victory_points = { 1746 2 }
+	}
+}

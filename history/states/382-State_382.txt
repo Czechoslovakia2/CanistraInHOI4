@@ -1,0 +1,14 @@
+state={
+	id=382
+	name="STATE_382"
+	provinces={
+		521 1657 2908 3494 3639 4103 8012 8945 8954 10478 10546 10558 10584 10624 10692 10735 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = AFR
+		add_core_of = AFR
+	}
+}

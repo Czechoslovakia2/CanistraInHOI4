@@ -1,0 +1,17 @@
+state={
+	id=782
+	name="STATE_782"
+	provinces={
+		51 786 1854 2538 2644 2916 4921 5119 6752 6915 8835 8941 14481 14548 14554 14590 14636 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = SCV
+		add_core_of = SCV
+		victory_points = { 14481 5 }
+		victory_points = { 6752 2 }
+		victory_points = { 51 2 }
+	}
+}

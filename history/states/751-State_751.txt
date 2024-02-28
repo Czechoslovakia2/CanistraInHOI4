@@ -1,0 +1,17 @@
+state={
+	id=751
+	name="STATE_751"
+	provinces={
+		639 1520 2272 2718 2974 3345 4042 4088 4618 4918 5111 5252 5974 6279 6321 6477 8342 8931 14188 14196 14233 14239 14262 14269 14283 14295 14303 14306 14336 14380 14396 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = TRW
+		add_core_of = TRW
+		victory_points = { 6279 10 }
+		victory_points = { 4042 4 }
+		victory_points = { 14396 3 }
+	}
+}

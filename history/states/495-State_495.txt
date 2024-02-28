@@ -1,0 +1,15 @@
+state={
+	id=495
+	name="STATE_495"
+	provinces={
+		668 1134 1629 2013 2101 2618 3892 4198 4671 5361 5609 7216 7500 8620 11681 11688 11693 11751 11760 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = DOW
+		add_core_of = DOW
+		victory_points = { 11751 25 }
+	}
+}

@@ -1,0 +1,20 @@
+
+state={
+	id=567
+	name="STATE_567"
+
+	history={
+		owner = VIP
+		add_core_of = VIP
+		victory_points = { 12542 2 }
+		victory_points = { 12484 1 }
+	}
+
+	provinces={
+		354 763 844 1992 2086 2208 2991 3135 3816 3848 5179 5759 6076 6790 12484 12488 12527 12542 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

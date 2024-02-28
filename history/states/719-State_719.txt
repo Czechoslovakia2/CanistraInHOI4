@@ -1,0 +1,16 @@
+state={
+	id=719
+	name="STATE_719"
+	provinces={
+		170 846 997 1382 1438 1940 2452 2909 2920 3713 4605 4649 5513 5683 6427 6961 8656 13766 13779 13854 13885 13901 13910 13925 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = APA
+		add_core_of = APA
+		victory_points = { 6427 3 }
+		victory_points = { 1382 4 }
+	}
+}

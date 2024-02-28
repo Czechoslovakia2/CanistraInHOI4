@@ -1,0 +1,18 @@
+
+state={
+	id=170
+	name="STATE_170"
+	provinces={
+		480 1160 1338 2680 3456 4302 6974 7633 9122 9167 14085 14138 14183 14232 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = TGF
+		add_core_of = TGF
+		add_core_of = ORT
+		victory_points = { 9167 25 }
+		victory_points = { 1160 3 }
+	}
+}

@@ -1,0 +1,17 @@
+state={
+	id=602
+	name="STATE_602"
+	provinces={
+		367 975 1663 1784 1928 2020 2851 3569 3883 4431 5973 6345 8854 9053 9211 12720 12771 12844 12894 12919 13042 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = ESS
+		add_core_of = ESS
+		victory_points = { 12894 25 }
+		victory_points = { 4431 6 }
+		victory_points = { 9053 4 }
+	}
+}

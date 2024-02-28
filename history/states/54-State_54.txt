@@ -1,0 +1,18 @@
+
+state={
+	id=54
+	name="STATE_54"
+	provinces={
+		1294 1709 2840 4652 7673 7717 8295 8891 10729 10823 10840 10949 15462 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = ALI
+		add_core_of = ALI
+		victory_points = { 10840 20 }
+		victory_points = { 4652 1 }
+		victory_points = { 7673 1 }
+	}
+}

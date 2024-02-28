@@ -1,0 +1,16 @@
+state={
+	id=109
+	name="STATE_109"
+	provinces={
+		678 1471 6950 7935 8798 12674 12700 12729 12793 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = ESS
+		add_core_of = ESS
+		victory_points = { 1471 2 }
+		victory_points = { 8798 4 }
+	}
+}

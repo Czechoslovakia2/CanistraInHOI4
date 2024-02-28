@@ -1,0 +1,17 @@
+state={
+	id=827
+	name="STATE_827"
+	provinces={
+		221 449 836 911 1203 1429 2211 3267 4021 4542 5039 5691 6181 6440 6642 6706 6875 6896 6978 7257 7265 7854 7874 8266 8903 14775 14795 14812 14848 14932 14952 14955 14961 14973 14990 14991 14996 15015 15021 15033 15035 15043 15048 15078 15084 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = MAU
+		add_core_of = MAU
+		victory_points = { 15035 2 }
+		victory_points = { 15084 3 }
+		victory_points = { 7265 3 }
+	}
+}

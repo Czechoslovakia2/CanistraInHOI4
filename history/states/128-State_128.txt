@@ -1,0 +1,19 @@
+
+state={
+	id=128
+	name="STATE_128"
+	provinces={
+		702 971 1004 2015 2440 3229 3450 6764 6864 8443 8508 8737 13231 13310 13315 13356 13390 13394 13398 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = ASR
+		add_core_of = ASR
+		victory_points = { 13398 3 }
+		victory_points = { 971 3 }
+		victory_points = { 702 1 }
+		victory_points = { 2015 1 }
+	}
+}

@@ -1,0 +1,18 @@
+state={
+	id=459
+	name="STATE_459"
+	provinces={
+		31 302 592 1493 1706 2773 4633 5066 5501 6170 7162 7714 8176 8519 11307 11312 11356 11359 11387 11401 11422 11433 11462 11475 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = TRK
+		add_core_of = TRK
+		victory_points = { 1493 3 }
+		victory_points = { 11422 6 }
+		victory_points = { 11359 3 }
+		victory_points = { 31 5 }
+	}
+}

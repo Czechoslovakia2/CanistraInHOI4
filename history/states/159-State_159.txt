@@ -1,0 +1,17 @@
+
+state={
+	id=159
+	name="STATE_159"
+	provinces={
+		1094 1996 2185 4170 5223 5825 6019 6832 7643 13900 13907 13921 13958 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = NAT
+		add_core_of = NAT
+		victory_points = { 7643 5 }
+		victory_points = { 1996 3 }
+	}
+}

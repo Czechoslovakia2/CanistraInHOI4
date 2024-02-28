@@ -1,0 +1,15 @@
+state={
+	id=441
+	name="STATE_441"
+	provinces={
+		240 1346 1907 3645 4034 5897 6372 6648 6820 11230 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = CYI
+		add_core_of = CYI
+		victory_points = { 1346 10 }
+	}
+}

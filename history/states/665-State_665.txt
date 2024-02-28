@@ -1,0 +1,15 @@
+
+state={
+	id=665
+	name="STATE_665"
+	provinces={
+		14 491 858 1070 2694 2797 2798 3046 3137 3235 3831 4190 4597 5369 5521 5744 5792 6020 6293 6462 8435 8475 13097 13224 13275 13312 13321 13345 13350 13352 13359 13381 13396 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = MAQ
+		add_core_of = MAQ
+	}
+}

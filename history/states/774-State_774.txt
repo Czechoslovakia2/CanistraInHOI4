@@ -1,0 +1,16 @@
+state={
+	id=774
+	name="STATE_774"
+	provinces={
+		370 978 2009 4173 4412 4650 4830 5929 6217 7109 7422 7939 14354 14386 14411 14436 14437 14453 14486 14493 14515 14541 14562 14606 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = IBA
+		add_core_of = IBA
+		victory_points = { 370 2 }
+		victory_points = { 6217 4 }
+	}
+}

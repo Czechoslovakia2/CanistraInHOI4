@@ -1,0 +1,15 @@
+
+state={
+	id=682
+	name="STATE_682"
+	provinces={
+		17 2005 2352 3059 3571 4981 7245 7645 7950 8374 8998 13453 13488 13492 13498 13515 13535 13562 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = SEC
+		add_core_of = SEC
+	}
+}

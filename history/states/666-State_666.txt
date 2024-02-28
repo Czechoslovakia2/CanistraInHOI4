@@ -1,0 +1,16 @@
+
+state={
+	id=666
+	name="STATE_666"
+	provinces={
+		388 981 1517 1689 2366 2677 3946 4503 4604 5077 5581 6828 6855 7211 7796 8350 13258 13304 13319 13342 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = USI
+		add_core_of = USI
+		victory_points = { 981 1 }
+	}
+}

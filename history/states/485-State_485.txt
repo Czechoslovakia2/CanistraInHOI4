@@ -1,0 +1,21 @@
+state={
+	id=485
+	name="STATE_485"
+	provinces={
+		940 1163 1787 2172 2501 3241 3431 3452 3502 3612 4260 4905 5173 5423 5438 5942 6062 6272 6283 7237 7330 7394 7766 7896 8097 8308 8576 8637 11354 11385 11490 11509 11516 11546 11559 11583 11611 11637 11644 11708 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = WEL
+		add_core_of = WEL
+		add_core_of = FAR
+		victory_points = { 8308 1 }
+		victory_points = { 2172 1 }
+		victory_points = { 11559 3 }
+		victory_points = { 7896 5 }
+		victory_points = { 3431 5 }
+		victory_points = { 6283 1 }
+	}
+}

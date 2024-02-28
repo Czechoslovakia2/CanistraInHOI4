@@ -1,0 +1,15 @@
+
+state={
+	id=668
+	name="STATE_668"
+	provinces={
+		243 1022 1249 2901 4157 6240 8967 13237 13268 13289 13308 13318 13335 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = BUG
+		add_core_of = BUG
+	}
+}

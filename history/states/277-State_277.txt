@@ -1,0 +1,15 @@
+state={
+	id=277
+	name="STATE_277"
+	provinces={
+		257 950 2558 3465 4278 4590 5121 5185 6532 7414 7932 9602 9620 9643 9664 9715 9722 9737 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = EQU
+		add_core_of = EQU
+		victory_points = { 9715 3 }
+	}
+}

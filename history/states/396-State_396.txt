@@ -1,0 +1,21 @@
+
+state={
+	id=396
+	name="STATE_396"
+	provinces={
+		326 2057 2949 2999 3511 5346 5420 6747 7239 7877 8426 10444 10505 10515 10552 10578 10688 10689 10710 10749 10797 10824 10851 10855 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = ASS
+		add_core_of = ASS
+		victory_points = { 326 3 }
+		victory_points = { 10444 3 }
+		victory_points = { 2057 2 }
+		victory_points = { 8426 1 }
+		victory_points = { 2999 1 }
+		victory_points = { 10855 2 }
+	}
+}

@@ -1,0 +1,17 @@
+state={
+	id=138
+	name="STATE_138"
+	provinces={
+		1342 1641 4375 5086 6482 6777 13525 13599 13600 13624 13637 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = CHD
+		add_core_of = CHD
+		victory_points = { 13600 1 }
+		victory_points = { 13599 3 }
+		victory_points = { 1342 2 }
+	}
+}

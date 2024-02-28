@@ -1,0 +1,16 @@
+state={
+	id=486
+	name="STATE_486"
+	provinces={
+		945 1149 1361 1794 1811 2897 3190 3847 3867 5118 5177 5290 5349 5504 6346 7682 8326 8488 11540 11582 11589 11607 11621 11642 11672 11675 11698 11721 11734 11785 11802 11810 11830 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = VIT
+		add_core_of = VIT
+		victory_points = { 2897 2 }
+		victory_points = { 11675 1 }
+	}
+}

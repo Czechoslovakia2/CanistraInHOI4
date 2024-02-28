@@ -1,0 +1,17 @@
+
+state={
+	id=213
+	name="STATE_213"
+	provinces={
+		3175 3415 7617 7911 8904 15303 15314 15316 15321 15323 15325 15329 15330 15334 15505 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = IBA
+		add_core_of = IBA
+		victory_points = { 8904 2 }
+		victory_points = { 15323 3 }
+	}
+}

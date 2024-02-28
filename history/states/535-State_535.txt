@@ -1,0 +1,15 @@
+state={
+	id=535
+	name="STATE_535"
+	provinces={
+		2386 2676 3193 4510 4642 4982 7262 7528 11857 11898 11919 11970 11991 12122 12188 12198 12239 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = VIP
+		add_core_of = VIP
+		victory_points = { 11919 8 }
+	}
+}

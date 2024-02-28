@@ -1,0 +1,14 @@
+state={
+	id=835
+	name="STATE_835"
+	provinces={
+		42 977 1261 2586 2734 3802 4087 4736 9009 14902 14920 14972 14989 15026 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = STE
+		add_core_of = STE
+	}
+}

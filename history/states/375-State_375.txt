@@ -1,0 +1,17 @@
+
+state={
+	id=375
+	name="STATE_375"
+	provinces={
+		3 850 1011 3133 3523 4143 6421 7929 8263 8658 8787 10309 10394 10516 10522 10611 10716 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = HDD
+		add_core_of = HDD
+		victory_points = { 10309 2 }
+		victory_points = { 10716 35 }
+	}
+}

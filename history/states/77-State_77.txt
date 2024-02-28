@@ -1,0 +1,19 @@
+
+state={
+	id=77
+	name="STATE_77"
+	provinces={
+		156 361 707 916 1293 1580 2296 3214 3945 4270 4392 5189 5226 5457 6921 8775 8849 9072 9083 9176 10898 10903 10985 11016 11105 11172 11207 11216 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = HIR
+		add_core_of = HIR
+		victory_points = { 11016 3 }
+		victory_points = { 4392 2 }
+		victory_points = { 5457 3 }
+		victory_points = { 9083 2 }
+	}
+}

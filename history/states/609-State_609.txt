@@ -1,0 +1,14 @@
+state={
+	id=609
+	name="STATE_609"
+	provinces={
+		4006 4168 4729 6996 8707 12645 12702 12714 12743 12819 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = GRM
+		add_core_of = GRM
+	}
+}

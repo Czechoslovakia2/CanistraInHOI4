@@ -1,0 +1,16 @@
+state={
+	id=488
+	name="STATE_488"
+	provinces={
+		516 779 830 983 1035 1183 1867 2398 5491 6290 6554 7706 8024 11613 11634 11654 11715 11772 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = TOM
+		add_core_of = TOM
+		victory_points = { 516 2 }
+		victory_points = { 11772 1 }
+	}
+}

@@ -1,0 +1,15 @@
+state={
+	id=15
+	name="STATE_15"
+	provinces={
+		795 2590 4226 8441 9438 9475 9481 9522 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = KHR
+		add_core_of = KHR
+		victory_points = { 8441 4 }
+	}
+}

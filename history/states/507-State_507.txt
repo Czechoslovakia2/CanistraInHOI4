@@ -1,0 +1,17 @@
+state={
+	id=507
+	name="STATE_507"
+	provinces={
+		75 1079 1162 1566 1652 1988 3015 3244 3271 3460 3596 4928 4998 5404 5791 6049 6274 6883 7124 8348 8691 9062 11574 11622 11658 11699 11722 11735 11765 11781 11793 11833 11854 11888 11921 11937 11961 11964 12014 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = NIO
+		add_core_of = NIO
+		victory_points = { 4928 2 }
+		victory_points = { 11781 1 }
+		victory_points = { 9062 2 }
+	}
+}

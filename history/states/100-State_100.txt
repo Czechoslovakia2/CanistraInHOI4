@@ -1,0 +1,16 @@
+
+state={
+	id=100
+	name="STATE_100"
+	provinces={
+		247 1363 4341 7461 12289 12298 12310 12320 12365 12366 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = AYR
+		add_core_of = AYR
+		victory_points = { 12310 4 }
+	}
+}

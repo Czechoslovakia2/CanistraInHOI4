@@ -1,0 +1,15 @@
+state={
+	id=619
+	name="STATE_619"
+	provinces={
+		877 7078 8289 8330 12839 12941 12988 13008 13046 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = TRO
+		add_core_of = TRO
+		victory_points = { 8289 3 }
+	}
+}

@@ -1,0 +1,15 @@
+characters={
+	TGF_jacob_monier={
+		name=TGF_CHARACTER_JACOB_MONIER
+		portraits={
+			civilian={
+				large="GFX_TGF_portrait_jacob_monier"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1940.8.12.1"
+			desc=TGF_JACOB_MONIER_DESC
+		}
+	}
+}

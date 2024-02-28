@@ -1,0 +1,18 @@
+capital = 53
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1934.10.24"
+	election_frequency = 60
+	elections_allowed = yes
+}
+
+set_popularities = {
+	democratic = 86
+	fascism = 2
+	communism = 8
+	neutrality = 1
+    monarchism = 3
+}
+
+recruit_character = ALI_cairo_galvan

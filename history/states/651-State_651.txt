@@ -1,0 +1,15 @@
+
+state={
+	id=651
+	name="STATE_651"
+	provinces={
+		21 426 623 875 957 1736 2824 3274 5160 5434 6246 6286 6466 6487 8049 8870 13063 13135 13139 13151 13177 13204 13244 13279 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = USI
+		add_core_of = USI
+	}
+}

@@ -1,0 +1,16 @@
+state={
+	id=876
+	name="STATE_876"
+	provinces={
+		525 2001 2019 3318 4409 5481 6147 6232 6314 7217 7644 8075 8405 8428 8926 15402 15412 15413 15421 15427 15430 15434 15438 15439 15442 15443 15444 15445 15448 15453 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = RET
+		add_core_of = PLK
+		add_core_of = RET
+		victory_points = { 4409 2 }
+	}
+}

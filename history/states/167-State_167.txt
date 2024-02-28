@@ -1,0 +1,16 @@
+
+state={
+	id=167
+	name="STATE_167"
+	provinces={
+		107 642 1052 1260 2579 2702 4048 4282 4352 5166 5727 6145 6809 7026 7253 7289 7774 8400 8814 13537 13597 13635 13666 13682 13734 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = SPF
+		add_core_of = SPF
+		victory_points = { 107 1 }
+	}
+}

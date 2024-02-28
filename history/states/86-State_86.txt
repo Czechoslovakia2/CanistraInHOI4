@@ -1,0 +1,17 @@
+state={
+	id=86
+	name="STATE_86"
+	provinces={
+		1024 4708 5798 6095 11556 11584 11590 11678 11750 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = CRE
+		add_core_of = CRE
+		victory_points = { 1024 3 }
+		victory_points = { 6095 4 }
+		victory_points = { 4708 3 }
+	}
+}

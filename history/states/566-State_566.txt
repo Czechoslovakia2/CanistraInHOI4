@@ -1,0 +1,17 @@
+state={
+	id=566
+	name="STATE_566"
+	provinces={
+		65 2989 3074 3853 5492 5637 5861 7131 7344 7629 8098 8323 12276 12277 12314 12315 12363 12456 12490 12507 12539 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = PRT
+		add_core_of = PRT
+		victory_points = { 7344 3 }
+		victory_points = { 8098 2 }
+		victory_points = { 5637 2 }
+	}
+}

@@ -1,0 +1,17 @@
+state={
+	id=819
+	name="STATE_819"
+	provinces={
+		632 1071 1393 1567 1816 3127 3132 3379 3462 4555 5797 6113 6339 6894 7152 8983 14729 14730 14778 14781 14802 14804 14817 14823 14865 14872 14917 14943 14962 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = CNB
+		add_core_of = CNB
+		victory_points = { 14729 20 }
+		victory_points = { 3132 2 }
+		victory_points = { 3462 3 }
+	}
+}

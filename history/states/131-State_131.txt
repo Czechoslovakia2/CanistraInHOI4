@@ -1,0 +1,19 @@
+
+state={
+	id=131
+	name="STATE_131"
+	provinces={
+		2392 2622 3054 4209 4628 4873 5130 5524 5854 6856 7656 13367 13368 13386 13404 13407 13460 13470 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = TGF
+		add_core_of = TGF
+		add_core_of = CNF
+		victory_points = { 13367 3 }
+		victory_points = { 13368 4 }
+		victory_points = { 3054 5 }
+	}
+}

@@ -1,0 +1,16 @@
+
+state={
+	id=35
+	name="STATE_35"
+	provinces={
+		937 1076 6012 6111 6483 7207 7597 8050 8454 10102 10226 10311 10355 10383 15458 15459 15460 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = NRT
+		add_core_of = NRT
+		victory_points = { 6483 8 }
+	}
+}

@@ -1,0 +1,17 @@
+state={
+	id=489
+	name="STATE_489"
+	provinces={
+		2224 2227 2479 2912 3305 3706 4281 4779 5760 5870 5976 6234 7912 8542 8764 9147 11586 11651 11666 11690 11747 11758 11768 11769 11807 11826 11835 11866 11900 11918 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = FRO
+		add_core_of = FRO
+		victory_points = { 11900 3 }
+		victory_points = { 5870 2 }
+		victory_points = { 11586 20 }
+	}
+}

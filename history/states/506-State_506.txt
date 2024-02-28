@@ -1,0 +1,16 @@
+state={
+	id=506
+	name="STATE_506"
+	provinces={
+		1170 2181 2880 3595 6137 6719 11656 11665 11819 11847 11889 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = TRK
+		add_core_of = TRK
+		victory_points = { 6719 3 }
+		victory_points = { 2880 2 }
+	}
+}

@@ -1,0 +1,16 @@
+
+state={
+	id=189
+	name="STATE_189"
+	provinces={
+		248 2749 3588 6992 7293 8480 8593 14818 14837 14868 14878 14901 14951 14970 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = PLK
+		add_core_of = PLK
+		add_core_of = RET
+	}
+}

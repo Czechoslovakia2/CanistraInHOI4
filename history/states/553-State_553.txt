@@ -1,0 +1,18 @@
+
+state={
+	id=553
+	name="STATE_553"
+	provinces={
+		1720 1982 2238 2941 4687 6265 6918 7731 7777 8857 12059 12096 12125 12169 12189 12251 12260 12295 12326 12341 12381 12407 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = RST
+		add_core_of = RST
+		victory_points = { 12059 30 }
+		victory_points = { 12295 15 }
+		victory_points = { 12251 3 }
+	}
+}

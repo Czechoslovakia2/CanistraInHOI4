@@ -1,0 +1,18 @@
+
+state={
+	id=108
+	name="STATE_108"
+	provinces={
+		109 415 1105 1545 5750 5962 6244 6621 8615 10916 10941 10971 11108 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = ALI
+		add_core_of = ALI
+		victory_points = { 415 20 }
+		victory_points = { 6244 2 }
+		victory_points = { 6621 2 }
+	}
+}

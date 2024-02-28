@@ -1,0 +1,16 @@
+capital = 11
+
+HDD = {
+    if = {
+        limit = {
+            has_dlc = "Together for Victory"
+        }
+        set_autonomy = {
+            target = CRK
+            autonomous_state = autonomy_colony
+        }
+    }
+    else = {
+        puppet = CRK
+    }
+}

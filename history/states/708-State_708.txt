@@ -1,0 +1,15 @@
+state={
+	id=708
+	name="STATE_708"
+	provinces={
+		10 864 947 1197 2756 7700 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = APA
+		add_core_of = APA
+		victory_points = { 7700 2 }
+	}
+}

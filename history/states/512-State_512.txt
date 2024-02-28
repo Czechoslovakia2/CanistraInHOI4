@@ -1,0 +1,15 @@
+
+state={
+	id=512
+	name="STATE_512"
+	provinces={
+		1828 1848 3011 3708 3962 6525 6831 7508 7820 7876 11683 11752 11801 11862 11982 
+	}
+	manpower=859000
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = VIB
+		add_core_of = VIB
+	}
+}

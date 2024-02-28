@@ -1,0 +1,21 @@
+
+state={
+	id=22
+	name="STATE_22"
+	provinces={
+		781 1207 1634 4068 4401 5688 6093 6816 6926 7936 8062 8238 8425 8501 9758 9768 9850 9871 9874 9882 9883 9914 9919 9942 9943 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = HDD
+		add_core_of = HDD
+		victory_points = { 4068 50 }
+		victory_points = { 6093 4 }
+		victory_points = { 9768 5 }
+		victory_points = { 9850 6 }
+		victory_points = { 9914 2 }
+		victory_points = { 9882 3 }
+	}
+}

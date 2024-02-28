@@ -1,0 +1,15 @@
+state={
+	id=789
+	name="STATE_789"
+	provinces={
+		1137 1325 1417 1477 2347 2519 4017 5432 6689 7244 7695 8083 8219 14680 14695 14720 14789 14822 14832 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = CNB
+		add_core_of = CNB
+		victory_points = { 1417 3 }
+	}
+}

@@ -1,0 +1,21 @@
+
+state={
+	id=690
+	name="STATE_690"
+	provinces={
+		392 769 1246 1481 1555 1697 1751 2395 2606 3427 3562 4279 4688 4854 4990 5030 5428 5975 6231 6494 6575 6680 6837 7754 8385 8657 13416 13439 13461 13477 13484 13520 13536 13563 13569 13581 13601 15485 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = SEC
+		add_core_of = SEC
+		victory_points = { 6680 3 }
+		victory_points = { 392 3 }
+		victory_points = { 13569 3 }
+		victory_points = { 6575 4 }
+		victory_points = { 2395 3 }
+		victory_points = { 4854 2 }
+	}
+}

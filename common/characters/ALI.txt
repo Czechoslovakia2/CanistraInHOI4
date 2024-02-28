@@ -1,0 +1,15 @@
+characters={
+	ALI_cairo_galvan={
+		name=ALI_CHARACTER_CAIRO_GALVAN
+		portraits={
+			civilian={
+				large="GFX_ALI_portrait_cairo_galvan"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1956.1.1.1"
+			desc=ALI_CAIRO_GALVAN_DESC
+		}
+	}
+}

@@ -1,0 +1,16 @@
+state={
+	id=52
+	name="STATE_52"
+	provinces={
+		349 747 3863 5964 8749 9123 10892 10914 10931 10962 10981 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = ROS
+		add_core_of = ROS
+		victory_points = { 10914 2 }
+		victory_points = { 9123 1 }
+	}
+}

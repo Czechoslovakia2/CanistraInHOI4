@@ -1,0 +1,18 @@
+
+state={
+	id=685
+	name="STATE_685"
+	provinces={
+		595 1240 1572 2002 2034 2288 2307 2578 2721 3619 6267 7361 7568 8125 8224 13402 13447 13463 13479 13481 13491 13502 13509 13516 13527 13550 13576 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = ASR
+		add_core_of = ASR
+		victory_points = { 6267 10 }
+		victory_points = { 13516 2 }
+		victory_points = { 595 1 }
+	}
+}

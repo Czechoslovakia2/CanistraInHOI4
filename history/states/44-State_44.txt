@@ -1,0 +1,14 @@
+state={
+	id=44
+	name="STATE_44"
+	provinces={
+		2106 5458 6572 6835 7147 10675 10694 10707 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = CYI
+		add_core_of = CYI
+	}
+}

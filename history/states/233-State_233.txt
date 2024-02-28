@@ -1,0 +1,15 @@
+state={
+	id=233
+	name="STATE_233"
+	provinces={
+		25 447 744 918 1824 2860 3168 4625 5052 5194 5305 6077 6159 6935 7274 8192 8799 8956 9144 9292 9299 9304 9305 9321 9326 9329 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = APU
+		add_core_of = APU
+		victory_points = { 8192 4 }
+	}
+}

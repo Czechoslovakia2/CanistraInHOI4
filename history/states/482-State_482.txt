@@ -1,0 +1,15 @@
+state={
+	id=482
+	name="STATE_482"
+	provinces={
+		992 2316 3665 3749 4525 6510 6817 7069 11667 11668 11702 11733 11809 11813 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = RYZ
+		add_core_of = RYZ
+		victory_points = { 992 15 }
+	}
+}

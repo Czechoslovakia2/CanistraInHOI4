@@ -1,0 +1,15 @@
+
+state={
+	id=47
+	name="STATE_47"
+	provinces={
+		986 5542 7005 7331 10718 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = AMP
+		add_core_of = AMP
+	}
+}

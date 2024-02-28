@@ -1,0 +1,18 @@
+
+state={
+	id=870
+	name="STATE_870"
+	provinces={
+		855 1086 1714 2343 3057 3282 3578 4452 4508 4752 5124 5454 5500 5941 5987 6058 6943 8117 8582 8744 15342 15344 15349 15351 15356 15362 15371 15379 15389 15406 15416 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = RET
+		add_core_of = PLK
+		add_core_of = RET
+		victory_points = { 3057 4 }
+		victory_points = { 6943 3 }
+	}
+}

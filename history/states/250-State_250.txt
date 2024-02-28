@@ -1,0 +1,16 @@
+state={
+	id=250
+	name="STATE_250"
+	provinces={
+		1666 2174 2485 3009 3592 3661 5843 7471 9044 9422 9474 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = KER
+		add_core_of = KER
+		victory_points = { 3009 10 }
+		victory_points = { 7471 4 }
+	}
+}

@@ -1,0 +1,17 @@
+
+state={
+	id=513
+	name="STATE_513"
+	provinces={
+		450 460 801 1229 1281 1528 2257 2329 4414 4483 5904 6185 7511 11661 11753 11762 11791 11829 11841 11877 11894 11983 11988 12032 12077 12084 12114 12143 12168 
+	}
+	manpower=5950000
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	history = {
+        	owner = VIB
+		add_core_of = VIB
+		victory_points = { 11753 3 }
+		victory_points = { 7511 2 }
+	}
+}

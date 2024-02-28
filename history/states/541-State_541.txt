@@ -1,0 +1,16 @@
+
+state={
+	id=541
+	name="STATE_541"
+	provinces={
+		894 2701 2962 3474 6369 8354 12052 12124 12160 12199 12225 12300 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = LOT
+		add_core_of = LOT
+		victory_points = { 12300 15 }
+	}
+}

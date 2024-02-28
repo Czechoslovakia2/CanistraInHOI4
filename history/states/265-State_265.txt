@@ -1,0 +1,16 @@
+state={
+	id=265
+	name="STATE_265"
+	provinces={
+		94 397 1219 1735 2318 2914 5529 7146 8036 9498 9523 9536 9539 9542 9578 9617 9622 9682 9695 9733 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = KER
+		add_core_of = KER
+		victory_points = { 2914 5 }
+		victory_points = { 9733 3 }
+	}
+}

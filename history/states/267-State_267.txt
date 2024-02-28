@@ -1,0 +1,16 @@
+state={
+	id=267
+	name="STATE_267"
+	provinces={
+		576 989 1496 1702 1766 1963 2225 2539 3975 4318 4807 5150 5499 6435 6697 7007 8355 8958 8965 9464 9508 9513 9519 9535 9574 9588 9624 9665 9668 9677 9750 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = CHN
+		add_core_of = CHN
+		victory_points = { 8965 10 }
+		victory_points = { 8958 1 }
+	}
+}

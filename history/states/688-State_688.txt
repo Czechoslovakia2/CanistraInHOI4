@@ -1,0 +1,16 @@
+
+state={
+	id=688
+	name="STATE_688"
+	provinces={
+		879 1840 2076 2504 2610 4155 4386 4662 4669 6579 7734 7910 9090 13385 13415 13441 13450 13456 13474 13490 13552 13588 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = BUG
+		add_core_of = BUG
+		victory_points = { 4662 3 }
+	}
+}

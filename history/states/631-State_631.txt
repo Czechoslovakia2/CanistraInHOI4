@@ -1,0 +1,29 @@
+state={
+	id=631
+	name="STATE_631"
+	provinces={
+		13 163 210 309 542 585 987 1054 1127 1181 1267 1303 1448 1659 2246 2319 2521 2541 2759 3120 3181 3686 3822 3826 3857 3873 3970 4150 4514 4726 5243 5365 5394 5447 5485 5689 5844 6188 6622 6665 6806 6884 7058 7071 7142 7236 7636 7990 9015 9021 9154 12842 12920 12925 12936 12975 12976 12977 13003 13034 13060 13071 13074 13086 13092 13095 13119 13131 13133 13154 13180 13187 13198 13201 13245 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = POY
+		add_core_of = POY
+		victory_points = { 13060 20 }
+		victory_points = { 12936 2 }
+		victory_points = { 1659 3 }
+		victory_points = { 210 3 }
+		victory_points = { 7058 4 }
+		victory_points = { 5243 1 }
+		victory_points = { 3970 1 }
+		victory_points = { 1181 2 }
+		victory_points = { 13133 3 }
+		victory_points = { 1448 3 }
+		victory_points = { 1054 4 }
+		victory_points = { 987 1 }
+		victory_points = { 6884 2 }
+		victory_points = { 5844 2 }
+		victory_points = { 9021 3 }
+	}
+}

@@ -1,0 +1,20 @@
+state={
+	id=792
+	name="STATE_792"
+	provinces={
+		338 462 512 2311 2570 2828 3616 3650 4137 4146 4500 4562 4653 5525 5695 6224 6296 6370 6673 6861 7267 7606 8252 8442 8445 8966 9050 14514 14519 14561 14572 14573 14595 14604 14605 14612 14631 14660 14705 14726 14770 14800 14810 14844 14957 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = CNB
+		add_core_of = CNB
+		victory_points = { 338 3 }
+		victory_points = { 512 1 }
+		victory_points = { 2570 4 }
+		victory_points = { 3650 2 }
+		victory_points = { 3616 2 }
+		victory_points = { 14957 3 }
+	}
+}

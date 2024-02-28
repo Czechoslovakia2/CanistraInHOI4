@@ -1,0 +1,26 @@
+
+state={
+	id=855
+	name="STATE_855"
+	provinces={
+		116 727 826 1420 1592 1670 1927 2847 3197 3430 3973 3992 4391 4643 5202 5235 5263 5370 5584 6172 7707 7906 8241 8640 8643 15155 15174 15187 15190 15202 15204 15205 15237 15246 15262 15278 15288 15300 15308 15343 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	history = {
+        	owner = AVA
+		add_core_of = AVA
+		victory_points = { 1927 3 }
+		victory_points = { 4643 2 }
+		victory_points = { 6172 1 }
+		victory_points = { 15300 2 }
+		victory_points = { 8643 2 }
+		victory_points = { 1420 3 }
+		victory_points = { 3430 2 }
+		victory_points = { 15205 3 }
+		victory_points = { 15204 2 }
+		victory_points = { 15174 15 }
+		victory_points = { 5370 4 }
+	}
+}

@@ -1,0 +1,17 @@
+state={
+	id=446
+	name="STATE_446"
+	provinces={
+		1097 1244 1482 2264 2270 3309 3361 6040 6432 7758 8659 8953 11005 11062 11111 11169 11222 11244 11245 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = MOS
+		add_core_of = MOS
+		victory_points = { 3309 2 }
+		victory_points = { 11169 2 }
+		victory_points = { 11244 1 }
+	}
+}

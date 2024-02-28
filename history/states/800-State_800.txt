@@ -1,0 +1,17 @@
+state={
+	id=800
+	name="STATE_800"
+	provinces={
+		696 1074 1776 3387 3496 4972 5935 7234 7625 7799 8014 14592 14623 14629 14721 14757 14839 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+        	owner = HNG
+		add_core_of = HNG
+		victory_points = { 696 3 }
+		victory_points = { 4972 2 }
+		victory_points = { 14629 1 }
+	}
+}
